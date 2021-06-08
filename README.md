@@ -1,6 +1,6 @@
-# experience-manager-dox-learn.en
+# XML Documentation for Adobe Experience Manager (or AEM DoX)
 
-This is the repository for all things XML Documentation for Adobe Experience Manager (or AEM DoX) - tutorials, courses, videos, troubleshooting articles.
+This is the repository for all customer enablement content for XML Documentation for Adobe Experience Manager (or AEM DoX) - tutorials, courses, videos, troubleshooting articles.
 
 Your contributions to the documentation are welcome. Please see the following resources:
 
