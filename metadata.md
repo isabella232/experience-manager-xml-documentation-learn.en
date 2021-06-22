@@ -1,13 +1,14 @@
 ---
 cloud: Experience Cloud
-solution-title: Experience Manager Dox
+solution-title: XML Documentation for Adobe Experience Manager
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-dox-learn.en
-product: Adobe Experience Manager Dox
+product: XML Documentation for Adobe Experience Manager
 index: y
 type: Tutorial
-solution: Adobe Experience Manager Dox
-feature-set: Experience Manager Dox
+solution: XML Documentation for Adobe Experience Manager
+feature-set: XML Documentation for Adobe Experience Manager
+role: Author
 ---
 
 # Metadata for internal use
