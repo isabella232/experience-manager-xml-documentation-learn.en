@@ -4,11 +4,11 @@ user-guide-description: A collection of videos and tutorials for XML Documentati
 breadcrumb-title: XML Documentation Tutorials
 ---
   
-# XML Documentation for Adobe Experience Manager Videos and Tutorials
+# XML Documentation for Adobe Experience Manager Videos and Tutorials {#tutorials}
 
 + [Overview](overview.md)
 + Configuring {#configuring}
-  + [Sample](./section-a/section-a1/sample.md)
+  + [Setup a custom DITA-OT](./configuring/setup-a-custom-dita-ot.md)
 + Web Editor {#web-editor}
 + Versioning {#versioning}
 
