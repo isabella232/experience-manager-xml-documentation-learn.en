@@ -1,10 +1,10 @@
 ---
-user-guide-title: Adobe Experience Manager Dox Videos and Tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Experience Manager Dox.
-breadcrumb-title: Adobe Experience Manager Dox Tutorials
+user-guide-title: XML Documentation for Adobe Experience Manager Videos and Tutorials
+user-guide-description: A collection of videos and tutorials for XML Documentation for Adobe Experience Manager.
+breadcrumb-title: XML Documentation for Adobe Experience Manager Tutorials
 ---
   
-# Adobe Experience Manager Dox Videos and Tutorials
+# XML Documentation for Adobe Experience Manager Videos and Tutorials
 
 + [Overview](overview.md)
 
