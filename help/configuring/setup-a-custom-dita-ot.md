@@ -21,6 +21,6 @@ On a high level the steps are:
 + Add DITA Profile through Tools > XML Documentation > DITA Profiles (use the DITA-OT path where the custom DITA-OT is uploaded, refer screenshot below)
 ![DITA Profiles](assets/dita-profile.png)
 
-## More Reading
-[Customizing DITA-OT plugin samples](https://www.dita-ot.org/dev/topics/pdf-customization.html)
+>[!MORELIKETHIS]
+>* [Customizing DITA-OT plugin samples](https://www.dita-ot.org/dev/topics/pdf-customization.html)
 
