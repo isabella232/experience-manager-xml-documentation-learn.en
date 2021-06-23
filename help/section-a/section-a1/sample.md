@@ -1,3 +1,6 @@
+# Sample
+
+<!--
 ---
 title: <Title that displays in Google>
 description: <Description that displays in Google>
@@ -14,3 +17,4 @@ thumbnail: <MPC Video ID>.jpeg
 <Short description of the video>
 
 >[!VIDEO](https://video.tv.adobe.com/v/<MPC Video ID>/?quality=12&learn=on&hidetitle=true)
+-->

@@ -1,8 +1,6 @@
 ---
 title: guide title
-seo-title: seo title
 description: guide description
-seo-description: seo-description
 ---
 
 # Overview {#overview}
@@ -10,6 +8,10 @@ seo-description: seo-description
 A 1-2 sentence overview of the product that this user guide centers on. This user guide contains videos and tutorials on the many features and capabilities of *xyz*.
 
 ## What's New
+
+<!--
+
+These dummy links are invalid
 
 * **[A new feature video (Video)](README.md)**
     <br>
@@ -74,3 +76,5 @@ A 1-2 sentence overview of the product that this user guide centers on. This use
 * [Resource #1](README.md)
 * [Resource #2](README.md)
 * [Resource #3](README.md)
+
+-->

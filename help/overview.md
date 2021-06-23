@@ -1,8 +1,6 @@
 ---
 title: XML Documentation for Adobe Experience Manager Tutorials
-seo-title: XML Documentation for Adobe Experience Manager 
 description: XML Documentation for Adobe Experience Manager Tutorials| AEM XML Add-on | AEM XML Plugin | AEM DoX | AEM Dox
-seo-description: XML Documentation for Adobe Experience Manager | AEM XML Add-on | AEM XML Plugin | AEM DoX | AEM Dox | AEM DXML Plugin | AEM XML Addon
 ---
 
 # Overview {#overview}
@@ -12,6 +10,10 @@ XML Documentation for Adobe Experience Manager (referred to as XML Documentation
 XML Documentation solution provides all core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content, enabling authors to do more in less time through efficient content reuse and powerful workflows. Moreover, users can leverage its best-in-class, single-click publishing capability to generate DITA-based output for the most popular formats - Experience Manager Sites, PDF, HTML5, EPUB, and custom output through DITA-OT.
 
 With XML Documentation solution, enterprises can deliver seamless and personalized experiences to end users and ensure consistency and uniformity in pre- and post-sales content. Complete control over content integrity can be achieved easily. What's more, localization time and costs also reduce significantly.
+
+<!--
+
+Dummy links cause validation to fail
 
 ## What's New
 

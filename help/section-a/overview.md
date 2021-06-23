@@ -1,13 +1,15 @@
 ---
 title: guide title
-seo-title: seo title
 description: guide description
-seo-description: seo-description
 ---
 
 # Overview {#overview}
 
 A 1-2 sentence overview of the product that this user guide centers on. This user guide contains videos and tutorials on the many features and capabilities of *xyz*.
+
+<!--
+
+Commenting out links that cause validation to fail
 
 ## What's New
 
@@ -74,3 +76,4 @@ A 1-2 sentence overview of the product that this user guide centers on. This use
 * [Resource #1](README.md)
 * [Resource #2](README.md)
 * [Resource #3](README.md)
+-->
