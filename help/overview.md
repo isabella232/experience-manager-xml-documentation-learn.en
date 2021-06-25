@@ -1,6 +1,6 @@
 ---
 title: XML Documentation for Adobe Experience Manager Tutorials
-description: XML Documentation for Adobe Experience Manager Tutorials| AEM XML Add-on | AEM XML Plugin | AEM DoX | AEM Dox
+description: XML Documentation for Adobe Experience Manager Tutorials, AEM XML Add-on, AEM XML Plugin, AEM DoX, and AEM Dox
 ---
 
 # Overview {#overview}
