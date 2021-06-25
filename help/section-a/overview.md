@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: guide description
+description: Overview of Experience Manager XML documentation.
 ---
 
 # Overview {#overview}
