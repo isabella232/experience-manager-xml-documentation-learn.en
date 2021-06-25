@@ -11,15 +11,23 @@ XML Documentation solution provides all core CCMS functions, such as collaborati
 
 With XML Documentation solution, enterprises can deliver seamless and personalized experiences to end users and ensure consistency and uniformity in pre- and post-sales content. Complete control over content integrity can be achieved easily. What's more, localization time and costs also reduce significantly.
 
+## What's New
+
+* **[Setup custom DITA-OT](configuring/setup-a-custom-dita-ot.md)**
+    <br>
+    *Learn how to setup custom DITA-OT in XML Documentation for Adobe Experience Manager.*
+
+* **[Exclude paragraphs from translation](translation/exclude-paragraphs-from-translation.md)**
+    <br>
+    *Learn how to exclude paragraphs within a topic from translation.*
+
+* **[Configure additional special characters](web-editor/configure-additional-special-characters.md)**
+    <br>
+    *Learn how to configure additional special characters in Web Editor toolbar.*
+
 <!--
 
 Dummy links cause validation to fail
-
-## What's New
-
-* **[Setup custom DITA-OT ](configuring/setup-a-custom-dita-ot.md)**
-    <br>
-    *Learn how to setup custom DITA-OT in XML Documentation for Adobe Experience Manager.*
 
 ## Staff Picks
 
@@ -67,9 +75,11 @@ Dummy links cause validation to fail
 </tr>
 </table>
 
+-->
+
+
 ## Additional Resources
 
-* [Resource #1](README.md)
-* [Resource #2](README.md)
-* [Resource #3](README.md)
--->
+* [XML Documentation Online User Guide](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/index.html)
+* [XML Documentation PDF Guides](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html)
+* [Experience League - Explore AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
