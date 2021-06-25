@@ -9,7 +9,10 @@ breadcrumb-title: XML Documentation Tutorials
 + [Overview](overview.md)
 + Configuring {#configuring}
   + [Setup a custom DITA-OT](./configuring/setup-a-custom-dita-ot.md)
++ Translation {#translation}
+  + [Exclude paragraphs from translation](./translation/exclude-paragraphs-from-translation.md)
 + Web Editor {#web-editor}
+  + [Configure additional special characters](./web-editor/configure-additional-special-characters.md) 
 + Versioning {#versioning}
 
 

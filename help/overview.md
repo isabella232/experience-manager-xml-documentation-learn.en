@@ -17,17 +17,9 @@ Dummy links cause validation to fail
 
 ## What's New
 
-* **[A new feature video (Video)](README.md)**
+* **[Setup custom DITA-OT ](configuring/setup-a-custom-dita-ot.md)**
     <br>
-    *Learn about this cool new capability.*
-
-* **[A new feature video (Video)](README.md)**
-    <br>
-    *Learn about this cool new capability.*
-
-* **[A new article (Article)](README.md)**
-    <br>
-    *Click here to read more about feature xyz!*
+    *Learn how to setup custom DITA-OT in XML Documentation for Adobe Experience Manager.*
 
 ## Staff Picks
 

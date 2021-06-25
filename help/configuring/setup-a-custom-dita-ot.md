@@ -1,10 +1,8 @@
 ---
 title: Setup custom DITA-OT in XML Documentation for Adobe Experience Manager
 description: Setup custom DITA-OT in XML Documentation for Adobe Experience Manager
-topic: Administration
 feature:  
 role: Administrator
-level: Experienced
 ---
 
 # Setup custom DITA-OT
