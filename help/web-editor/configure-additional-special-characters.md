@@ -20,7 +20,9 @@ These list of characters is configurable here. If you need to add more character
 + Create symbols.json file at the following location: '/apps/fmdita/xmleditor/' (You can copy the default from - '/libs/fmdita/clientlibs/clientlibs/xmleditor/symbols.json' location)
 
 + Add the special character definition in the symbols.json file as:
-``` {
+``` 
+
+{
       "label": "Logical Symbols",
       "items": [
         {
@@ -32,7 +34,8 @@ These list of characters is configurable here. If you need to add more character
           "title": "Smaller-Than or Equal To"
         }
       ]
-}​
+}
+
 ``` 
 
 The structure of the symbols.json file is explained below:
