@@ -20,6 +20,7 @@ These list of characters is configurable here. If you need to add more character
 + Create symbols.json file at the following location: '/apps/fmdita/xmleditor/' (You can copy the default from - '/libs/fmdita/clientlibs/clientlibs/xmleditor/symbols.json' location)
 
 + Add the special character definition in the symbols.json file as:
+
 ``` 
 
 {
@@ -56,4 +57,4 @@ This will add another category in special characters dialog:
 
 >[!MORELIKETHIS]
 
-https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-6/XML-Documentation-for-Adobe-Experience-Manager_Installation-Configuration-Guide_EN.pdf
+[Installation and Configuration Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-6/XML-Documentation-for-Adobe-Experience-Manager_Installation-Configuration-Guide_EN.pdf)
