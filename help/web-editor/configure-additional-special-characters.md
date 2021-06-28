@@ -56,5 +56,5 @@ This will add another category in special characters dialog:
 ![Insert Special Character](assets/insert-special-char.png)
 
 >[!MORELIKETHIS]
-
-[Installation and Configuration Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-6/XML-Documentation-for-Adobe-Experience-Manager_Installation-Configuration-Guide_EN.pdf)
+>
+>+ [Installation and Configuration Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-6/XML-Documentation-for-Adobe-Experience-Manager_Installation-Configuration-Guide_EN.pdf)
