@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-xml-documentation-learn.en
-product: XML Documentation for Adobe Experience Manager
+product: Experience Manager
 index: y
 type: Tutorial
 solution: Experience Manager, Experience Manager XML Documentation
