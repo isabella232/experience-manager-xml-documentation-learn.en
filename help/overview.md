@@ -14,15 +14,12 @@ With XML Documentation solution, enterprises can deliver seamless and personaliz
 ## What's New
 
 * **[Setup custom DITA-OT](configuring/setup-a-custom-dita-ot.md)**
-    <br>
     *Learn how to setup custom DITA-OT in XML Documentation for Adobe Experience Manager.*
 
 * **[Exclude paragraphs from translation](translation/exclude-paragraphs-from-translation.md)**
-    <br>
     *Learn how to exclude paragraphs within a topic from translation.*
 
 * **[Configure additional special characters](web-editor/configure-additional-special-characters.md)**
-    <br>
     *Learn how to configure additional special characters in Web Editor toolbar.*
 
 <!--
