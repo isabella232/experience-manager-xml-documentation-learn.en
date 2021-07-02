@@ -13,6 +13,8 @@ breadcrumb-title: XML Documentation Tutorials
   + [Exclude paragraphs from translation](./translation/exclude-paragraphs-from-translation.md)
 + Web Editor {#web-editor}
   + [Configure additional special characters](./web-editor/configure-additional-special-characters.md) 
++ Content Architecture {#content-arch}
+  + [Create global keys](./content-architecture/create-global-keys.md)
 + Versioning {#versioning}
 
 
