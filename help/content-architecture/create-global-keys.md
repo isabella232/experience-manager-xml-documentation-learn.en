@@ -13,6 +13,7 @@ Use case: Organizations should use keys in cases where they have some resuable a
 Create a global map for storing your keys. Create a map and add the keyref element to it.
 
 ```
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
 <mapid="map.ditamap_ffbdbf06-8658-4311-ad84-1c631bba904f">
@@ -30,6 +31,7 @@ Create a global map for storing your keys. Create a map and add the keyref eleme
 </map>
 
 ```
+
 Here we have defined two definitions, as shown above, provided a keyref as “AEM” for the “Adobe Experience Manager” text.
 
 **Step 2**
@@ -37,6 +39,7 @@ Here we have defined two definitions, as shown above, provided a keyref as “AE
 Now add this map to your publication map.
 
 ```
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
 <mapid="map.ditamap_cbf4a96d-e382-4e8c-8830-bcc093fe6638">
@@ -48,6 +51,7 @@ Now add this map to your publication map.
 </map>
 
 ```
+
 **Step 3** 
 Use the keys to refer to any of the variables defined in the global key map.
 
@@ -57,6 +61,7 @@ Use the keys to refer to any of the variables defined in the global key map.
 ![Key Ref](assets/key_ref.png)
 
 ```
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
 <topicid="topic.dita_31b00e61-04b5-4193-af7a-68503e88b087">
@@ -69,3 +74,4 @@ Use the keys to refer to any of the variables defined in the global key map.
 </topic>
 
 ```
+
