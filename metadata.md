@@ -7,7 +7,7 @@ index: y
 type: Tutorial
 solution: Experience Manager, Experience Manager XML Documentation
 feature-set: Experience Manager XML Documentation
-role: Author
+role: Business Practitioner
 ---
 
 # Metadata for internal use
