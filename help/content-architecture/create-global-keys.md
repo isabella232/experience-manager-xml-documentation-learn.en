@@ -1,7 +1,7 @@
 ---
 title: Create global keys
 description: How to create global keys to be used across organization content
-role: Administrator
+role: Admin
 ---
 
 # Create global keys
