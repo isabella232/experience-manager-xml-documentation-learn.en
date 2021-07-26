@@ -2,7 +2,7 @@
 title: Exclude paragraphs within a topic from translation
 description: How to exclude paragraphs within a topic from translation
 feature: Translation
-role: Business Practitioner
+role: User
 ---
 
 # How to exclude paragraphs within a topic from translation

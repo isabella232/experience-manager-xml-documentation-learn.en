@@ -2,7 +2,7 @@
 title: Configure additional special characters in Web Editor toolbar
 description: How to configure additional special characters in Web Editor toolbar
 feature: Web Editor
-role: Business Practitioner
+role: User
 ---
 
 # How to configure additional special characters in Web Editor toolbar
