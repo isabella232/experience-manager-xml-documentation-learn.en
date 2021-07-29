@@ -1,10 +1,10 @@
 ---
 title: Create and use conditions
-description: How to create and use conditions in XML Documentation
+description: How to create conditions and then setup conditional content generation in XML Documentation
 role: User
 ---
 
-# Create and use conditions
+# Create and use conditions and generate conditional output
 
 **Use case**
 
