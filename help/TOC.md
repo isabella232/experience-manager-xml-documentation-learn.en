@@ -15,6 +15,7 @@ breadcrumb-title: XML Documentation Tutorials
   + [Configure additional special characters](./web-editor/configure-additional-special-characters.md) 
 + Content Architecture {#content-arch}
   + [Create global keys](./content-architecture/create-global-keys.md)
+  + [Create and use conditions](./content-architecture/create-and-use-conditions.md)
 + Versioning {#versioning}
 
 
