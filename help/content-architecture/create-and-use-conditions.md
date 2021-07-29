@@ -20,6 +20,7 @@ role: User
 Define conditions relevant to the documentation in Folder Profiles: 
 Refer to section **Configure conditional attributes for global or folder-level profiles** in [Page 64 of the Installation and Configuration Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-8/XML-Documentation-for-Adobe-Experience-Manager_Installation-Configuration-Guide_EN.pdf)
 
+![Configure Conditions in Folder Profiles](assets/conditions-in-profiles.png)
 
 **Step 2**
 
@@ -32,6 +33,7 @@ Refer to section **User Preferences** in [Page 39 of User Guide](https://helpx.a
 Use the conditions to conditionalize sections of content : 
 Refer to section **Conditions** in [Page 81 of User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-8/XML-Documentation-for-Adobe-Experience-Manager_User-Guide_EN.pdf)
 
+![Use Conditions in Web Editor](assets/conditions-in-web-editor.png)
 
 **Step 4** 
 
