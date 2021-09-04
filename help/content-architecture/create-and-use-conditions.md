@@ -2,8 +2,8 @@
 title: Create and use conditions
 description: How to create conditions and then setup conditional content generation in XML Documentation
 role: User
+exl-id: a86007e3-48d1-458b-84a7-b683e113e5b2
 ---
-
 # Create and use conditions and generate conditional output
 
 **Use case**
@@ -39,4 +39,3 @@ Refer to section **Conditions** in [Page 81 of User Guide](https://helpx.adobe.c
 
 Define condition presets at map level to choose which conditions to enable in the output : 
 Refer to section **Use condition presets** in [Page 184 of User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-8/XML-Documentation-for-Adobe-Experience-Manager_User-Guide_EN.pdf)
-

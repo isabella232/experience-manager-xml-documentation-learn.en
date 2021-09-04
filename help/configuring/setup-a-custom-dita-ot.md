@@ -2,8 +2,8 @@
 title: Setup custom DITA-OT in XML Documentation for Adobe Experience Manager
 description: Setup custom DITA-OT in XML Documentation for Adobe Experience Manager
 role: Admin
+exl-id: f479c2cf-5b8b-4517-be97-81303468007a
 ---
-
 # Setup custom DITA-OT
 
 The steps to add a custom DITA-OT are documented in the section "Use custom DITA-OT plug-ins" of Installation and Configuration Guide

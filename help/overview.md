@@ -1,8 +1,8 @@
 ---
 title: XML Documentation for Adobe Experience Manager Tutorials
 description: XML Documentation for Adobe Experience Manager Tutorials, AEM XML Add-on, AEM XML Plugin, AEM DoX, and AEM Dox
+exl-id: 06dd1b77-1a98-430f-8322-475d4fa4947b
 ---
-
 # Overview {#overview}
 
 XML Documentation for Adobe Experience Manager (referred to as XML Documentation solution later in this guide) is a powerful, enterprise-grade component content management solution (CCMS). It enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery. It empowers authors to create content using any offline DITA authoring tool, such as Adobe FrameMaker or an easy-to-use built-in web editor.

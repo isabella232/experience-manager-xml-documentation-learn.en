@@ -3,8 +3,8 @@ title: Exclude paragraphs within a topic from translation
 description: How to exclude paragraphs within a topic from translation
 feature: Translation
 role: User
+exl-id: 21e41bb4-52f3-4352-92d9-4a60f636de99
 ---
-
 # How to exclude paragraphs within a topic from translation
 
 Easiest way is to make use of translation=no attribute.
