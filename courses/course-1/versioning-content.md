@@ -55,7 +55,7 @@ The Revert Version dialog displays.
 
    Your topic has reverted back to the specific version.
 
-# Using filters to compare versions
+## Using filters to compare versions
 
 You can also view version differences in Preview using the Tracking and Show Diff filters in the right rail.
 

@@ -22,8 +22,8 @@ A bulleted or unordered list should be used when list components do not need to 
    A bullet point displays. This is the beginning of your list.
 
 1. Type in your first list item.
-2. Press Enter to create a second entry and type in your content.
-3. Continue adding list items as needed.
+1. Press Enter to create a second entry and type in your content.
+1. Continue adding list items as needed.
 
 ## Numbered lists
 
@@ -38,8 +38,8 @@ A numbered list should be used when list components need to be ordered or struct
    A number displays. This is the beginning of your list.
 
 1. Type in your first list item.
-2. Press Enter to create a second entry and type in your content.
-3. Continue adding list items as needed.
+1. Press Enter to create a second entry and type in your content.
+1. Continue adding list items as needed.
 
 ## Saving as a new version
 

@@ -21,8 +21,9 @@ Web links direct readers to websites for more information, allow them to interac
 
    The Reference dialog displays.
 
-1. Select **Web Link** from the left menu.
-2. Paste the desired URL, then click **Select**.
+
+4. Select **Web Link** from the left menu.
+5. Paste the desired URL, then click **Select**.
 
    The link is functional and will open a webpage in a new browser tab when clicked.
 
