@@ -7,6 +7,8 @@ description: Linking to websites in XML Documentation for Adobe Experience Manag
 
 Web links direct readers to websites for more information, allow them to interact with external content, or give access to downloadable files. The following steps walk through how to add a web link to an existing concept.
 
+>[!VIDEO](https://video.tv.adobe.com/v/336656?quality=12&learn=on)
+
 ## Inserting a link
 
 1. Select your concept from the Repository and open it in the editor.

@@ -7,6 +7,8 @@ description:  Publishing default output in XML Documentation for Adobe Experienc
 
 Once you have a completed map, you can publish your content in multiple output formats.
 
+>[!VIDEO](https://video.tv.adobe.com/v/336662?quality=12&learn=on)
+
 ## Publishing your map as an AEM Site and a PDF
 
 There are a number of output presets available for you to choose from. This guide will focus on the AEM Site and PDF outputs.

@@ -7,6 +7,8 @@ description: Versioning content in XML Documentation for Adobe Experience Manage
 
 Versioning a document creates a snapshot of its current state. Creating multiple versions of a topic or map allows you to keep track of your changes and recover older work.
 
+>[!VIDEO](https://video.tv.adobe.com/v/336663?quality=12&learn=on)
+
 ## Creating a new version
 
 1. Select the Save as New Version icon.

@@ -7,6 +7,8 @@ description: Working with lists in XML Documentation for Adobe Experience Manage
 
 You may require bulleted and numbered lists to organize your information. The following will instruct you on how to insert and work with lists inside an existing concept.
 
+>[!VIDEO](https://video.tv.adobe.com/v/336658?quality=12&learn=on)
+
 ## Bulleted lists
 
 A bulleted or unordered list should be used when list components do not need to be arranged in a certain order.

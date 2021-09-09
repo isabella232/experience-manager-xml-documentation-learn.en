@@ -2,6 +2,8 @@
 
 In this course, you have learned the following:
 
+>[!VIDEO](https://video.tv.adobe.com/v/336660?quality=12&learn=on)
+
 - Understand the user interface
 - Create and structure content with the repository view and XML Editor
 - Work with images

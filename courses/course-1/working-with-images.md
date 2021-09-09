@@ -8,6 +8,8 @@ description: Working with images in XML Documentation for Adobe Experience Manag
 
 The following will walk you through uploading and inserting an image, as well as how to save a new version of a topic.
 
+>[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
+
 ## Uploading an image
 
 1. Hover over your subfolder and select the ellipsis icon to open the Options menu.

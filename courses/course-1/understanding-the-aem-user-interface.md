@@ -7,6 +7,8 @@ description:  Userstanding the AEM user interface in XML Documentation for Adobe
 
 The following will walk through the AEM user interface and some of its features.
 
+>[!VIDEO](https://video.tv.adobe.com/v/336659?quality=12&learn=on)
+
 ## Accessing the XML Editor
 
 1. In the login screen, enter your username and password, and select **Sign In**.
