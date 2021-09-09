@@ -1,5 +1,5 @@
 ---
-title: Recap of Getting started with XML Documentation for Adobe Experience Manager
+title: Recap of Getting started with XML Documentation
 description: Recap of Getting started with XML Documentation for Adobe Experience Manager
 ---
 

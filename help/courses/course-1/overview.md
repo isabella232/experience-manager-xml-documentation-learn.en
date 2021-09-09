@@ -1,6 +1,6 @@
 ---
-title: XML Documentation for Adobe Experience Manager Product Overview
-description: XML Documentation for Adobe Experience Manager Product Overview
+title: Getting started with XML Documentation
+description: Getting started with XML Documentation for Adobe Experience Manager
 ---
 
 # Overview

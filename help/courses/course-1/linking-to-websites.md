@@ -1,5 +1,5 @@
 ---
-title: Linking to websites in XML Documentation for Adobe Experience Manager
+title: Linking to websites in XML Documentation
 description: Linking to websites in XML Documentation for Adobe Experience Manager
 ---
 

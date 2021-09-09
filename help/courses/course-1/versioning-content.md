@@ -1,6 +1,6 @@
 ---
-title: Versioning content in XML Documentation for Adobe Experience Manager Product Overview
-description: Versioning content in XML Documentation for Adobe Experience Manager Product Overview
+title: Versioning content in XML Documentation
+description: Versioning content in XML Documentation for Adobe Experience Manager
 ---
 
 # Versioning Content

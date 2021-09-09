@@ -1,5 +1,5 @@
 ---
-title: Creating content in XML Documentation for Adobe Experience Manager
+title: Creating content in XML Documentation
 description: Creating content in XML Documentation for Adobe Experience Manager
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Working with images in XML Documentation for Adobe Experience Manager Product Overview
-description: Working with images in XML Documentation for Adobe Experience Manager Product Overview
+title: Working with images in XML Documentation
+description: Working with images in XML Documentation for Adobe Experience Manager
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: Publishing default output in XML Documentation for Adobe Experience Manager Product Overview
-description:  Publishing default output in XML Documentation for Adobe Experience Manager Product Overview
+title: Publishing default output in XML Documentation
+description:  Publishing default output in XML Documentation for Adobe Experience Manager
 ---
 
 # Publishing Default Output

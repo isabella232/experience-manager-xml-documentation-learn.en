@@ -1,6 +1,6 @@
 ---
-title: Working with lists in XML Documentation for Adobe Experience Manager Product Overview
-description: Working with lists in XML Documentation for Adobe Experience Manager Product Overview
+title: Working with lists in XML Documentation
+description: Working with lists in XML Documentation for Adobe Experience Manager
 ---
 
 # Working with Lists

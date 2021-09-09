@@ -1,5 +1,5 @@
 ---
-title: Creating a map in XML Documentation for Adobe Experience Manager
+title: Creating a map in XML Documentation
 description: Creating a map in XML Documentation for Adobe Experience Manager
 ---
 
