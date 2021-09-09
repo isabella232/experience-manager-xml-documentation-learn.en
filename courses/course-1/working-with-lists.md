@@ -1,0 +1,59 @@
+---
+title: Working with lists in XML Documentation for Adobe Experience Manager Product Overview
+description: Working with lists in XML Documentation for Adobe Experience Manager Product Overview
+---
+
+# Working with Lists
+
+You may require bulleted and numbered lists to organize your information. The following will instruct you on how to insert and work with lists inside an existing concept.
+
+## Bulleted lists
+
+A bulleted or unordered list should be used when list components do not need to be arranged in a certain order.
+
+### Inserting a bulleted list
+
+1. Select the **Insert Bulleted List** icon from the toolbar.
+
+   ![Insert Bulleted List icon](images/lesson-6/insert-bulleted-list.png?lang=en)
+
+   A bullet point displays. This is the beginning of your list.
+
+1. Type in your first list item.
+2. Press Enter to create a second entry and type in your content.
+3. Continue adding list items as needed.
+
+## Numbered lists
+
+A numbered list should be used when list components need to be ordered or structured in a certain way.
+
+### Inserting an ordered list
+
+1. Select the **Insert Numbered List** icon from the toolbar.
+
+   ![Insert Numbered List icon](images/lesson-6/insert-numbered-list.png?lang=en)
+
+   A number displays. This is the beginning of your list.
+
+1. Type in your first list item.
+2. Press Enter to create a second entry and type in your content.
+3. Continue adding list items as needed.
+
+## Saving as a new version
+
+Now that you have added more content to your concept, you can save your work as a new version and record your changes.
+
+1. Select the **Save as New Version** icon.
+
+   ![Save as New Version icon](images/common/save-as-new-version.png?lang=en)
+
+1. In the Comments for new Version field, enter a brief but clear summary of changes.
+1. In the Version Labels field, enter any relevant labels.
+
+   Labels allow you to specify the version you want to include when publishing.
+
+   >[!NOTE] If your program is configured with predefined labels, you can select from these to ensure consistent labelling. 
+
+1. Select **Save**.
+
+   You have created a new version of your topic, and the version number is updated.

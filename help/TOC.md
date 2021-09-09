@@ -1,10 +1,10 @@
 ---
-user-guide-title: XML Documentation for Adobe Experience Manager Videos and Tutorials
-user-guide-description: A collection of videos and tutorials for XML Documentation for Adobe Experience Manager.
+user-guide-title: XML Documentation for Adobe Experience Manager Tutorials
+user-guide-description: A collection of tutorials for XML Documentation for Adobe Experience Manager.
 breadcrumb-title: XML Documentation Tutorials
 ---
   
-# XML Documentation for Adobe Experience Manager Videos and Tutorials {#tutorials}
+# XML Documentation for Adobe Experience Manager Tutorials {#tutorials}
 
 + [Overview](overview.md)
 + Content Architecture and Use Cases {#content-arch}
