@@ -57,7 +57,9 @@ Now that you have added more content to your concept, you can save your work as 
 
    Labels allow you to specify the version you want to include when publishing.
 
-   >[!NOTE] If your program is configured with predefined labels, you can select from these to ensure consistent labelling. 
+   >[!NOTE] 
+   > 
+   > If your program is configured with predefined labels, you can select from these to ensure consistent labelling. 
 
 1. Select **Save**.
 

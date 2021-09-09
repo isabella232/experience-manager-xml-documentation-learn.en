@@ -84,10 +84,15 @@ Now that the map is complete, you can save your work as a new version and record
    ![Save as New Version icon](images/common/save-as-new-version.png?lang=en)
 
 1. In the Comments for new Version field, enter a brief but clear summary of changes.
+
 1. In the Version Labels field, enter any relevant labels.
 
    Labels allow you to specify the version you want to include when publishing.
-   >[!NOTE] If your program is configured with predefined labels, you can select from these to ensure consistent labelling.
+
+   >[!NOTE] 
+   > 
+   > If your program is configured with predefined labels, you can select from these to ensure consistent  labelling.
+
 1. Select **Save**.
    
    You have created a new version of your map, and the version number is updated.
