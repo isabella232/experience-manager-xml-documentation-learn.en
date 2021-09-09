@@ -7,7 +7,7 @@ description: Creating a map in XML Documentation for Adobe Experience Manager
 
 A map is an organizational tool that allows you to add and organize information in a hierarchical structure. Here, you will learn to create a map and organize content within it.
 
->[!VIDEO](https://video.tv.adobe.com/v/336655?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336725?quality=12&learn=on)
 
 ## Uploading map components
 
