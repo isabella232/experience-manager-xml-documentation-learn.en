@@ -19,6 +19,7 @@ You can choose from multiple views for the XML Editor to best suit your organiza
 The Default View displays your Favourites. You can further customize it with shortcuts as needed. Conversely, the Repository View displays a more traditional folder structure.
 
 ### Switching to the Repository View from the Default View
+
 1. In the left rail, select the **Repository** icon.
    
    ![Repository icon](images/common/repository-icon.png?lang=en)

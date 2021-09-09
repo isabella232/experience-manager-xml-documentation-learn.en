@@ -1,6 +1,7 @@
 # Recap
 
 In this course, you have learned the following:
+
 - Understand the user interface
 - Create and structure content with the repository view and XML Editor
 - Work with images

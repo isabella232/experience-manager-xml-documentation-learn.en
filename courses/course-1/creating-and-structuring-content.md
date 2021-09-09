@@ -8,6 +8,7 @@ description: Creating content in XML Documentation for Adobe Experience Manager
 Once you have familiarized yourself with the user interface, you can begin to create and structure your own content.
 
 ## Creating a folder
+
 1. Select the **Repository** icon to view your folders and files.
 
    ![Repository icon](images/common/repository-icon.png?lang=en)
