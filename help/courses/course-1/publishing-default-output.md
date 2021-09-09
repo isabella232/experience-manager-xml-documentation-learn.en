@@ -1,8 +1,8 @@
 ---
 title: Publishing default output in XML Documentation
-description:  Publishing default output in XML Documentation for Adobe Experience Manager
+description: Publishing default output in XML Documentation for Adobe Experience Manager
+exl-id: 97a259dd-4266-4a7b-8677-3fa261714687
 ---
-
 # Publishing Default Output
 
 Once you have a completed map, you can publish your content in multiple output formats.

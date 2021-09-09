@@ -1,8 +1,8 @@
 ---
 title: Versioning content in XML Documentation
 description: Versioning content in XML Documentation for Adobe Experience Manager
+exl-id: 766af002-d17b-4d27-b4d1-baaacc4579ca
 ---
-
 # Versioning Content
 
 Versioning a document creates a snapshot of its current state. Creating multiple versions of a topic or map allows you to keep track of your changes and recover older work.

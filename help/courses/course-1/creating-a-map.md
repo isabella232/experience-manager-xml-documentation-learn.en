@@ -1,8 +1,8 @@
 ---
 title: Creating a map in XML Documentation
 description: Creating a map in XML Documentation for Adobe Experience Manager
+exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 ---
-
 # Creating a Map
 
 A map is an organizational tool that allows you to add and organize information in a hierarchical structure. Here, you will learn to create a map and organize content within it.
@@ -96,4 +96,3 @@ Now that the map is complete, you can save your work as a new version and record
 1. Select **Save**.
    
    You have created a new version of your map, and the version number is updated.
-

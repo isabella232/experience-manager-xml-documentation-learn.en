@@ -1,8 +1,8 @@
 ---
 title: Userstanding the AEM user interface in XML Documentation
-description:  Userstanding the AEM user interface in XML Documentation for Adobe Experience Manager
+description: Userstanding the AEM user interface in XML Documentation for Adobe Experience Manager
+exl-id: 955a05ed-92d3-480e-9c6b-a0ff362cc464
 ---
-
 # Understanding the AEM User Interface
 
 The following will walk through the AEM user interface and some of its features.

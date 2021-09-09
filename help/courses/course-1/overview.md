@@ -1,8 +1,8 @@
 ---
 title: Getting started with XML Documentation
 description: Getting started with XML Documentation for Adobe Experience Manager
+exl-id: 6c53602f-4971-407e-9fd0-23c3a77e0118
 ---
-
 # Overview
 
 In this course, you will learn to do the following:
@@ -15,4 +15,3 @@ In this course, you will learn to do the following:
 - [Version your content](versioning-content.md)
 - [Create and organize a map](creating-a-map.md)
 - [Publish a map as an AEM Site and PDF](publishing-default-output.md)
-
