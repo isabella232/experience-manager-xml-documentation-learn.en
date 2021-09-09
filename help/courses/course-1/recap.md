@@ -1,3 +1,8 @@
+---
+title: Recap of Getting started with XML Documentation for Adobe Experience Manager
+description: Recap of Getting started with XML Documentation for Adobe Experience Manager
+---
+
 # Recap
 
 In this course, you have learned the following:
