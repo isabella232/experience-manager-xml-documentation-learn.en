@@ -13,7 +13,7 @@ Versioning a document creates a snapshot of its current state. Creating multiple
 
 1. Select the Save as New Version icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png?lang=en)
+   ![Save as New Version icon](images/common/save-as-new-version.png
 
    The Save as New Version dialog displays.
 
@@ -35,7 +35,7 @@ Once you have multiple versions of your content, you may want to explore the dif
 
 1. Select the Version History icon from the toolbar.
 
-   ![Version History icon](images/lesson-7/version-history.png?lang=en)
+   ![Version History icon](images/lesson-7/version-history.png
    
    The Version History dialog displays.
 
@@ -62,7 +62,7 @@ The Revert Version dialog displays.
 You can also view version differences in Preview using the Tracking and Show Diff filters in the right rail.
 
 1. Select **Preview** from the top menu bar.
-   ![Preview button](images/common/select-preview.png?lang=en)
+   ![Preview button](images/common/select-preview.png
 
    Your topic opens in Preview.
 

@@ -14,11 +14,11 @@ The following will walk you through uploading and inserting an image, as well as
 
 1. Hover over your subfolder and select the ellipsis icon to open the Options menu.
 
-   ![Ellipsis icon](images/lesson-4/ellipses.png?lang=en)
+   ![Ellipsis icon](images/lesson-4/ellipses.png
 
 1. Select **Upload Assets**.
 
-   ![Upload Assets](images/lesson-4/upload-assets.png?lang=en)
+   ![Upload Assets](images/lesson-4/upload-assets.png
 
 
 1. Select the image you would like to upload from your local system, and select **Open**.
@@ -44,7 +44,7 @@ For the following, ensure that your topic is open in the document editor.
 
 1. Select the **Insert Image** icon.
 
-   ![Insert Image icon](images/lesson-4/insert-image.png?lang=en)
+   ![Insert Image icon](images/lesson-4/insert-image.png
 
 
    The Insert Image dialog box appears.
@@ -52,7 +52,7 @@ For the following, ensure that your topic is open in the document editor.
 1. Select the folder icon next to the Select File field to search for your image or navigate to its location inside the Repository.
 1. Select the image&#39;s icon, and then **Select**.
 
-   ![Select image](images/lesson-4/select-image-with-markings.png?lang=en)
+   ![Select image](images/lesson-4/select-image-with-markings.png
 
    The Insert Image dialog box appears with the information of your chosen image.
 
@@ -73,7 +73,7 @@ As you have made a significant change to your topic, you may now find it useful 
 
 1. Select the **Save as New Version** icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png?lang=en)
+   ![Save as New Version icon](images/common/save-as-new-version.png
 
    The **Save as New Version** dialog box displays.
 

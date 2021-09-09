@@ -17,7 +17,7 @@ Web links direct readers to websites for more information, allow them to interac
    This highlighted text is where your link will be inserted.
 3. Select the **Insert Cross Reference** button from the toolbar.
 
-   ![Insert Cross Reference icon](images/lesson-5/insert-crossref-icon.png?lang=en)
+   ![Insert Cross Reference icon](images/lesson-5/insert-crossref-icon.png
 
    The Reference dialog displays.
 
@@ -33,7 +33,7 @@ The Preview button allows you see a preview of a topic. Here, you can test your 
 
 1. Select **Preview** from the top black menu bar.
 
-   ![Preview button](images/common/select-preview.png?lang=en)
+   ![Preview button](images/common/select-preview.png
 
    Your concept opens in Preview.
 
@@ -41,7 +41,7 @@ The Preview button allows you see a preview of a topic. Here, you can test your 
    The link destination opens in another tab.
 1. Return to Author view by selecting **Author** from the top black menu bar.
 
-   ![Author button](images/lesson-5/author-map.png?lang=en)
+   ![Author button](images/lesson-5/author-map.png
 
 
 ## Saving as a new version
@@ -50,7 +50,7 @@ Now that you have added more content to your concept, you can save your work as 
 
 1. Select the **Save as New Version** icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png?lang=en)
+   ![Save as New Version icon](images/common/save-as-new-version.png
 
 1. In the Comments for new Version field, enter a brief but clear summary of changes.
 1. In the Version Labels field, enter any relevant labels.

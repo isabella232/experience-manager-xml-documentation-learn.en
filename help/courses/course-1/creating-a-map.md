@@ -20,12 +20,12 @@ If desired, you can upload some local sample files into AEM for a more complete 
 
 1. Select the ellipsis icon on your main folder to open the Options menu.
 
-   ![Ellipsis icon](images/lesson-8/ellipses-9.png?lang=en)
+   ![Ellipsis icon](images/lesson-8/ellipses-9.png
 
 1. Select **Create** \> **Map**.
 
 
-   ![Create map](images/lesson-8/create-map-with-markings.png?lang=en)
+   ![Create map](images/lesson-8/create-map-with-markings.png
 
    The Create New Map dialog displays.
 
@@ -38,13 +38,13 @@ If desired, you can upload some local sample files into AEM for a more complete 
 
 1. Select the pencil icon in the left rail.
 
-   ![Edit icon](images/lesson-8/pencil-icon.png?lang=en)
+   ![Edit icon](images/lesson-8/pencil-icon.png
 
    This is the Edit icon, and allows you to open the map in the editor.
 
 1. Switch back to Repository view by selecting the Repository icon.
 
-   ![Repository icon](images/common/repository-icon.png?lang=en)
+   ![Repository icon](images/common/repository-icon.png
 
 1. Add a topic to the map by dragging and dropping it from the Repository into the map in the editor.
 
@@ -58,13 +58,13 @@ Preview provides a quick look at the content using default formats. It displays 
 
 1. Select **Preview** from the top black menu bar.
 
-   ![Preview button](images/common/select-preview.png?lang=en)
+   ![Preview button](images/common/select-preview.png
 
 Your content opens in Preview.
 
 1. To return to Author View and resume map editing, select **Author.**
 
-   ![Author button](images/lesson-5/author-map.png?lang=en)
+   ![Author button](images/lesson-5/author-map.png
 
 ## Configuring map structure
 
@@ -73,7 +73,7 @@ You can edit the hierarchy of topics inside the map.
 1. Click a topic&#39;s icon to select it.
 2. Use the Move Right and Move Left icons to demote and promote elements respectively.
 
-   ![Repository icon](images/lesson-8/left-right.png?lang=en)
+   ![Repository icon](images/lesson-8/left-right.png
 
 ## Saving the map as a new version
 
@@ -81,7 +81,7 @@ Now that the map is complete, you can save your work as a new version and record
 
 1. Select the **Save as New Version** icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png?lang=en)
+   ![Save as New Version icon](images/common/save-as-new-version.png
 
 1. In the Comments for new Version field, enter a brief but clear summary of changes.
 
