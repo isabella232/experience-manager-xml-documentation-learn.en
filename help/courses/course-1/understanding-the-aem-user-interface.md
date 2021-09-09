@@ -1,6 +1,6 @@
 ---
-title: Userstanding the AEM user interface in XML Documentation
-description:  Userstanding the AEM user interface in XML Documentation for Adobe Experience Manager
+title: Understanding the AEM user interface in XML Documentation
+description:  Understanding the AEM user interface in XML Documentation for Adobe Experience Manager
 ---
 
 # Understanding the AEM User Interface
