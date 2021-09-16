@@ -1,9 +1,8 @@
 ---
 title: Working with images in XML Documentation
 description: Working with images in XML Documentation for Adobe Experience Manager
+exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 ---
-
-
 # Working with Images
 
 The following will walk you through uploading and inserting an image, as well as how to save a new version of a topic.

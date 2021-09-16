@@ -1,8 +1,8 @@
 ---
 title: Working with lists in XML Documentation
 description: Working with lists in XML Documentation for Adobe Experience Manager
+exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
 ---
-
 # Working with Lists
 
 You may require bulleted and numbered lists to organize your information. The following will instruct you on how to insert and work with lists inside an existing concept.

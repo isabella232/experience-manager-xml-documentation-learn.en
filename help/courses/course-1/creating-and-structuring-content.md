@@ -1,8 +1,8 @@
 ---
 title: Creating content in XML Documentation
 description: Creating content in XML Documentation for Adobe Experience Manager
+exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 ---
-
 # Creating and Structuring Content
 
 Once you have familiarized yourself with the user interface, you can begin to create and structure your own content.
@@ -89,4 +89,4 @@ You can save your work at any time with Save or Save as New Version. Use Save to
    > If your program is configured with predefined labels, you can select from these to ensure consistent labelling. 
 1. Select **Save**.
    
-   You have created a new version of your topic, and the version number is updated. 
+   You have created a new version of your topic, and the version number is updated.
