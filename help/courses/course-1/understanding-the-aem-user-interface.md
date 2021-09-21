@@ -5,28 +5,28 @@ exl-id: 955a05ed-92d3-480e-9c6b-a0ff362cc464
 ---
 # Understanding the AEM User Interface
 
-The following will walk through the AEM user interface and some of its features.
+Learn about managing assets, files, and folders in the XML Editor for Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336659?quality=12&learn=on)
 
 ## Accessing the XML Editor
 
-1. In the login screen, enter your username and password, and select **Sign In**.
-2. Select the **XML Editor** from the AEM Navigation page.
+1. In the login screen, enter your username and password, and select **[!UICONTROL Sign In]**.
+2. Select **[!UICONTROL XML Editor]** from the AEM Navigation page.
 
 ## XML Editor Views
 
-You can choose from multiple views for the XML Editor to best suit your organizational needs. These include the Default and Repository Views.
+From the sidebar, you can choose from multiple views for the XML Editor to best suit your organizational needs. These include the default view and [!UICONTROL Repository View].
 
-The Default View displays your Favourites. You can further customize it with shortcuts as needed. Conversely, the Repository View displays a more traditional folder structure.
+The default view displays your [!UICONTROL Favorites]. You can further customize it with shortcuts as needed. Conversely, the [!UICONTROL Repository View] displays a more traditional folder structure.
 
-### Switching to the Repository View from the Default View
+### Switching to the [!UICONTROL Repository View] from the default view
 
-1. In the left rail, select the **Repository** icon.
+1. In the left rail, select **[!UICONTROL Repository View]**.
    
-   ![Repository icon](images/common/repository-icon.png
+   ![Repository icon](images/common/repository-icon.png)
    
-   The Repository view displays.
+   The [!UICONTROL Repository View] displays.
 
 ## The Assets UI
 
@@ -36,13 +36,13 @@ You can perform additional actions with your content. One of these options is to
 
 1. Hover over a folder or topic in the Repository and select the ellipsis icon that displays.
 
-   ![Ellipsis icon](images/lesson-2/options-menu-with-markings.png
+   ![Ellipsis icon](images/lesson-2/options-menu-with-markings.png)
 
    The Options menu displays.
 
 1. From the menu, select **View in Assets UI.**
 
-   ![View in Assets UI](images/lesson-2/assets-ui.png
+   ![View in Assets UI](images/lesson-2/assets-ui.png)
 
 
 ### Selecting a view
@@ -51,7 +51,7 @@ You can choose from multiple views for the Assets UI to best suit your organizat
 
 1. Select the **View Switcher** icon in the upper right corner.
 
-   ![View switcher icon](images/lesson-2/view-switcher.png
+   ![View switcher icon](images/lesson-2/view-switcher.png)
 
     A dropdown menu displays.
 
@@ -80,6 +80,6 @@ You can return to the XML Editor from any view of the Assets UI.
 
 1. Select the pencil icon on a topic in the Assets UI.
 
-   ![Pencil icon](images/lesson-2/return-card-view.png
+   ![Pencil icon](images/lesson-2/return-card-view.png)
 
     You are returned to the XML Editor.
