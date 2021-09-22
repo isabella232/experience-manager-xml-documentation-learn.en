@@ -7,7 +7,7 @@ exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 
 The following will walk you through uploading and inserting an image, as well as how to save a new version of a topic.
 
-You can download the example image file from ![here.] (assets/working-with-images/SignInScreen.png)
+You can download the example image file from [here.](assets/working-with-images/SignInScreen.png)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
 
