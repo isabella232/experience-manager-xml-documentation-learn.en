@@ -7,6 +7,12 @@ exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 
 A map is an organizational tool that allows you to add and organize information in a hierarchical structure. Here, you will learn to create a map and organize content within it.
 
+You can download example dita files from here:
+
+1. [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
+
+2. [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
+
 >[!VIDEO](https://video.tv.adobe.com/v/336725?quality=12&learn=on)
 
 ## Uploading map components
