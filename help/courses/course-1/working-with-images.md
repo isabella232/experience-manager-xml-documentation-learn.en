@@ -7,17 +7,19 @@ exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 
 The following will walk you through uploading and inserting an image, as well as how to save a new version of a topic.
 
+You can download the example image file from [here.](assets/working-with-images/SignInScreen.png)
+
 >[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
 
 ## Uploading an image
 
 1. Hover over your subfolder and select the ellipsis icon to open the Options menu.
 
-   ![Ellipsis icon](images/lesson-4/ellipses.png
+   ![Ellipsis icon](images/lesson-4/ellipses.png)
 
 1. Select **Upload Assets**.
 
-   ![Upload Assets](images/lesson-4/upload-assets.png
+   ![Upload Assets](images/lesson-4/upload-assets.png)
 
 
 1. Select the image you would like to upload from your local system, and select **Open**.
