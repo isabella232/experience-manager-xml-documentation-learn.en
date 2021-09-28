@@ -24,7 +24,7 @@ The Default View displays your Favourites. You can further customize it with sho
 
 1. In the left rail, select the **Repository** icon.
    
-   ![Repository icon](images/common/repository-icon.png
+   ![Repository icon](images/common/repository-icon.png)
    
    The Repository view displays.
 
@@ -36,13 +36,13 @@ You can perform additional actions with your content. One of these options is to
 
 1. Hover over a folder or topic in the Repository and select the ellipsis icon that displays.
 
-   ![Ellipsis icon](images/lesson-2/options-menu-with-markings.png
+   ![Ellipsis icon](images/lesson-2/options-menu-with-markings.png)
 
    The Options menu displays.
 
 1. From the menu, select **View in Assets UI.**
 
-   ![View in Assets UI](images/lesson-2/assets-ui.png
+   ![View in Assets UI](images/lesson-2/assets-ui.png)
 
 
 ### Selecting a view
@@ -51,7 +51,7 @@ You can choose from multiple views for the Assets UI to best suit your organizat
 
 1. Select the **View Switcher** icon in the upper right corner.
 
-   ![View switcher icon](images/lesson-2/view-switcher.png
+   ![View switcher icon](images/lesson-2/view-switcher.png)
 
     A dropdown menu displays.
 
@@ -80,6 +80,6 @@ You can return to the XML Editor from any view of the Assets UI.
 
 1. Select the pencil icon on a topic in the Assets UI.
 
-   ![Pencil icon](images/lesson-2/return-card-view.png
+   ![Pencil icon](images/lesson-2/return-card-view.png)
 
     You are returned to the XML Editor.
