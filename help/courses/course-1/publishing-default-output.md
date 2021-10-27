@@ -15,13 +15,13 @@ There are a number of output presets available for you to choose from. This guid
 
 1. In the repository, select the ellipsis icon on your map to open the Options menu, and then **Open in Map Dashboard.**
 
-   ![Open in Map Dashboard](images/lesson-9/map-dashboard-with-markings.png
+   ![Open in Map Dashboard](images/lesson-9/map-dashboard-with-markings.png)
 
    The Map Dashboard opens in another tab.
 
 2. In the Output Presets tab, select AEM Site and PDF.
 
-   ![Output Presets](images/lesson-9/pdf-aem.png
+   ![Output Presets](images/lesson-9/pdf-aem.png)
 
 3. Select **Generate.**
 
@@ -29,7 +29,7 @@ There are a number of output presets available for you to choose from. This guid
 
    A green circle indicates that generation is complete.
 
-   ![Output generation complete](images/lesson-9/green-circle.png
+   ![Output generation complete](images/lesson-9/green-circle.png)
 
 ## The AEM Site Output
 

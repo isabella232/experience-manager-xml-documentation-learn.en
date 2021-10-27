@@ -13,7 +13,7 @@ Versioning a document creates a snapshot of its current state. Creating multiple
 
 1. Select the Save as New Version icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png
+   ![Save as New Version icon](images/common/save-as-new-version.png)
 
    The Save as New Version dialog displays.
 
@@ -35,7 +35,7 @@ Once you have multiple versions of your content, you may want to explore the dif
 
 1. Select the Version History icon from the toolbar.
 
-   ![Version History icon](images/lesson-7/version-history.png
+   ![Version History icon](images/lesson-7/version-history.png)
    
    The Version History dialog displays.
 

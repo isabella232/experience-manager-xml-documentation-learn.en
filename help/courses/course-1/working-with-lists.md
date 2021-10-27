@@ -17,7 +17,7 @@ A bulleted or unordered list should be used when list components do not need to 
 
 1. Select the **Insert Bulleted List** icon from the toolbar.
 
-   ![Insert Bulleted List icon](images/lesson-6/insert-bulleted-list.png
+   ![Insert Bulleted List icon](images/lesson-6/insert-bulleted-list.png)
 
    A bullet point displays. This is the beginning of your list.
 
@@ -33,7 +33,7 @@ A numbered list should be used when list components need to be ordered or struct
 
 1. Select the **Insert Numbered List** icon from the toolbar.
 
-   ![Insert Numbered List icon](images/lesson-6/insert-numbered-list.png
+   ![Insert Numbered List icon](images/lesson-6/insert-numbered-list.png)
 
    A number displays. This is the beginning of your list.
 
@@ -47,7 +47,7 @@ Now that you have added more content to your concept, you can save your work as 
 
 1. Select the **Save as New Version** icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png
+   ![Save as New Version icon](images/common/save-as-new-version.png)
 
 1. In the Comments for new Version field, enter a brief but clear summary of changes.
 1. In the Version Labels field, enter any relevant labels.

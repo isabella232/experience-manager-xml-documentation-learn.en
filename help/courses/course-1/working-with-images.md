@@ -45,7 +45,7 @@ For the following, ensure that your topic is open in the document editor.
 
 1. Select the **Insert Image** icon.
 
-   ![Insert Image icon](images/lesson-4/insert-image.png
+   ![Insert Image icon](images/lesson-4/insert-image.png)
 
 
    The Insert Image dialog box appears.
@@ -53,7 +53,7 @@ For the following, ensure that your topic is open in the document editor.
 1. Select the folder icon next to the Select File field to search for your image or navigate to its location inside the Repository.
 1. Select the image&#39;s icon, and then **Select**.
 
-   ![Select image](images/lesson-4/select-image-with-markings.png
+   ![Select image](images/lesson-4/select-image-with-markings.png)
 
    The Insert Image dialog box appears with the information of your chosen image.
 
@@ -74,7 +74,7 @@ As you have made a significant change to your topic, you may now find it useful 
 
 1. Select the **Save as New Version** icon.
 
-   ![Save as New Version icon](images/common/save-as-new-version.png
+   ![Save as New Version icon](images/common/save-as-new-version.png)
 
    The **Save as New Version** dialog box displays.
 
