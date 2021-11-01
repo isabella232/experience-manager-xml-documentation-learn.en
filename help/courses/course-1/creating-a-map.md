@@ -3,44 +3,43 @@ title: Creating a map in XML Documentation
 description: Creating a map in XML Documentation for Adobe Experience Manager
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 ---
-# Creating a Map
+# Create a Map
 
-A map is an organizational tool that allows you to add and organize information in a hierarchical structure. Here, you will learn to create a map and organize content within it.
+A map is an organizational tool that allows you to add and organize information in a hierarchical structure. Here, you can learn how to create a map and organize content within it.
 
 You can download example dita files from here:
 
-1. [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
-
-2. [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
+* [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
+* [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336725?quality=12&learn=on)
 
-## Uploading map components
+## Upload map components
 
 If desired, you can upload some local sample files into AEM for a more complete set of materials.
 
 1. Drag and drop any local files into AEM to upload them.
 1. Repeat as needed for any files, including images and topics.
 
-## Creating a map
+## Create a map
 
 1. Select the ellipsis icon on your main folder to open the Options menu.
 
    ![Ellipsis icon](images/lesson-8/ellipses-9.png)
 
-1. Select **Create** \> **Map**.
+1. Select **[!UICONTROL Create]** > **[!UICONTROL Map]**.
 
 
    ![Create map](images/lesson-8/create-map-with-markings.png)
 
-   The Create New Map dialog displays.
+   The [!UICONTROL Create New Map] dialog displays.
 
-1. In the Template field, select **Bookmap** from the drop-down menu and give your map a title.
-1. Select **Create**.
+1. In the [!UICONTROL Template] field, select **[!UICONTROL Bookmap]** from the drop-down menu and give your map a title.
+1. Select **[!UICONTROL Create]**.
 
    Your map is created, and the left rail automatically changes from the Repository view to the Map view.
 
-## Inserting map components
+## Insert map components
 
 1. Select the pencil icon in the left rail.
 
@@ -58,21 +57,21 @@ If desired, you can upload some local sample files into AEM for a more complete 
 
 1. Continue to add topics as needed.
 
-## Viewing a map preview
+## View a map preview
 
 Preview provides a quick look at the content using default formats. It displays the headings, paragraphs, lists, and any other content in the topics is shown.
 
-1. Select **Preview** from the top black menu bar.
+1. Select **[!UICONTROL Preview]** from the top black menu bar.
 
    ![Preview button](images/common/select-preview.png)
 
-Your content opens in Preview.
+Your content opens in [!UICONTROL Preview].
 
 1. To return to Author View and resume map editing, select **Author.**
 
    ![Author button](images/lesson-5/author-map.png)
 
-## Configuring map structure
+## Configure map structure
 
 You can edit the hierarchy of topics inside the map.
 
@@ -81,7 +80,7 @@ You can edit the hierarchy of topics inside the map.
 
    ![Repository icon](images/lesson-8/left-right.png)
 
-## Saving the map as a new version
+## Save the map as a new version
 
 Now that the map is complete, you can save your work as a new version and record your changes.
 
