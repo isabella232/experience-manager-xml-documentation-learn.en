@@ -7,8 +7,6 @@ breadcrumb-title: XML Documentation Tutorials
 # XML Documentation for Adobe Experience Manager Tutorials {#tutorials}
 
 + [Overview](overview.md)
-<!-- + Release Information {#release-info}
-  + [XML Documentation releases](./release-info/latest-release-info.md) -->
 + Content Architecture and Use Cases {#content-arch}
   + [Create and use conditions and generate conditional output](./content-architecture/create-and-use-conditions.md)
   + [Create global keys](./content-architecture/create-global-keys.md)
@@ -19,5 +17,3 @@ breadcrumb-title: XML Documentation Tutorials
 + Web Editor {#web-editor}
   + [Configure additional special characters](./web-editor/configure-additional-special-characters.md) 
 + Versioning {#versioning}
-
-
