@@ -34,7 +34,7 @@ The following list contains the latest XML Documentation packages available for 
           3.8.5 is a SP release on top of 3.8.<br />
           3.8 release must not be installed standalone as 3.8.5 SP contains a critical fix.<br />
           Customers must first install 3.8 and then SP 3.8.5.</td>
-        <td><a href="" title="https://helpx.adobe.com/xml-documentation-for-experience-manager/release-note/release-notes-xml-documentation-solution-3-8.html">3.8.x Release Notes</a></td>
+        <td><a href="https://helpx.adobe.com/xml-documentation-for-experience-manager/release-note/release-notes-xml-documentation-solution-3-8.html">3.8.x Release Notes</a></td>
         <td>
           <table class="Table" style="text-decoration:none; border-collapse:collapse; border:none" summary="" title="">
             <tbody>
@@ -49,16 +49,16 @@ The following list contains the latest XML Documentation packages available for 
                         <td style="border-bottom:1px solid #a3a3a3; width:80px; padding:3px 4px; border-top:1px solid #a3a3a3; border-right:1px solid #a3a3a3; border-left:1px solid #a3a3a3" valign="top">
                           <p><strong><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif">UUID</span></span></strong></p>
                         </td>
-                        <td style="border-bottom:1px solid #a3a3a3; width:53px; padding:3px 4px; border-top:1px solid #a3a3a3; border-right:1px solid #a3a3a3; border-left:none" valign="top"><a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5uuid/com.adobe.fmdita.uuid-6.5-hotfix-3.8.5.2.zip">3.8.5 SP</a><br />
-                          <a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8uuid/com.adobe.fmdita.uuid-6.5-3.8.168.zip">3.8</a>
+                        <td style="border-bottom:1px solid #a3a3a3; width:53px; padding:3px 4px; border-top:1px solid #a3a3a3; border-right:1px solid #a3a3a3; border-left:none" valign="top"><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5uuid/com.adobe.fmdita.uuid-6.5-hotfix-3.8.5.2.zip">3.8.5 SP</a><br />
+                          <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8uuid/com.adobe.fmdita.uuid-6.5-3.8.168.zip">3.8</a>
                         </td>
                       </tr>
                       <tr>
                         <td style="border-bottom:1px solid #a3a3a3; width:82px; padding:3px 4px; border-top:none; border-right:1px solid #a3a3a3; border-left:1px solid #a3a3a3" valign="top">
                           <p><strong><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif">Non-UUID</span></span></strong></p>
                         </td>
-                        <td style="border-bottom:1px solid #a3a3a3; width:51px; padding:3px 4px; border-top:none; border-right:1px solid #a3a3a3; border-left:none" valign="top"><a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5/com.adobe.fmdita-6.5-hotfix-3.8.5.2.zip">3.8.5 SP</a><br />
-                          <a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8/com.adobe.fmdita-6.5-3.8.166.zip">3.8</a>
+                        <td style="border-bottom:1px solid #a3a3a3; width:51px; padding:3px 4px; border-top:none; border-right:1px solid #a3a3a3; border-left:none" valign="top"><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5/com.adobe.fmdita-6.5-hotfix-3.8.5.2.zip">3.8.5 SP</a><br />
+                          <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8/com.adobe.fmdita-6.5-3.8.166.zip">3.8</a>
                         </td>
                       </tr>
                     </tbody>
@@ -71,8 +71,8 @@ The following list contains the latest XML Documentation packages available for 
                 </td>
                 <td style="border-bottom:1px solid #a3a3a3; width:138px; padding:3px 4px; border-top:none; border-right:1px solid #a3a3a3; border-left:none" valign="top">
                   <p><strong>Non-UUID only</strong></p>
-                  <p><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif"></span></span><a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5/com.adobe.fmdita-6.4-hotfix-3.8.5.1.zip">3.8.5 SP</a><br />
-                    <a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8/com.adobe.fmdita-6.4-3.8.166.zip">3.8</a><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif"></span></span>
+                  <p><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif"></span></span><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5/com.adobe.fmdita-6.4-hotfix-3.8.5.1.zip">3.8.5 SP</a><br />
+                    <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8/com.adobe.fmdita-6.4-3.8.166.zip">3.8</a><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif"></span></span>
                   </p>
                 </td>
               </tr>
@@ -82,8 +82,8 @@ The following list contains the latest XML Documentation packages available for 
                 </td>
                 <td style="border-bottom:1px solid #a3a3a3; width:138px; padding:3px 4px; border-top:none; border-right:1px solid #a3a3a3; border-left:none" valign="top">
                   <p><strong>Non-UUID only</strong></p>
-                  <p><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif"><a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5/com.adobe.fmdita-6.3-hotfix-3.8.5.1.zip">3.8.5 SP</a><br />
-                        <a href="" title="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8/com.adobe.fmdita-6.3-3.8.166.zip">3.8</a></span></span></p>
+                  <p><span style="font-size:11pt"><span style="font-family:Calibri, sans-serif"><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8-5/com.adobe.fmdita-6.3-hotfix-3.8.5.1.zip">3.8.5 SP</a><br />
+                        <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/aemdox/3-8/com.adobe.fmdita-6.3-3.8.166.zip">3.8</a></span></span></p>
                 </td>
               </tr>
             </tbody>
