@@ -6,13 +6,25 @@ description: Latest XML Documentation releases and pre-requisite AEM versions
 
 XML Documentation for Adobe Experience Manager is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery. 
 
+**UUID vs Non-UUID Explained**
+
 XML Documentation packages are available in two modes - UUID build and non-UUID builds.
 
 Customers will need to decide between UUID and non-UUID mode at the time of first setup (please connect with your Customer Success Manager to help you make the decision based on your usecase).
 
 When upgrading from one version of XML Documentation to a newer version, customers will need to ensure they pick the same mode (UUID / non-UUID) to match their existing mode. A non-UUID build should not be directly upgrade to a UUID build. Moving from non-UUID build to UUID build would need content migration. 
 
-The following list contains the latest XML Documentation packages available for installation, corresponding AEM versions (pre-requisites), download links of packages, and other helpful information. It is recommended to only use the latest build of XML Documentation. If for some reason, you need access to older builds, please connect with your account's Customer Success Manager.
+**Upgrading Builds**
+
+When you are upgrading from an older version to a newer version of XML Documentation, you might need to execute some migration scripts. Please reach out to your customer success manager to validate the upgrade path. 
+
+**XML Documentation Builds**
+
+The following list contains the latest XML Documentation packages available for installation on AMS or On-Prem, corresponding AEM versions (pre-requisites), download links of packages, and other helpful information. It is recommended to only use the latest build of XML Documentation. If for some reason, you need access to older builds, please connect with your account's Customer Success Manager.
+
+>[!NOTE]
+>
+>Reach out to your Customer Success Manager for access to XML Documentation builds for AEM as a Cloud Service.
 
 
   <table>
