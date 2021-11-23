@@ -1,6 +1,7 @@
 ---
 title: XML Documentation releases
 description: Latest XML Documentation releases and pre-requisite AEM versions
+exl-id: 780697a9-bdc6-40c2-b258-64639fe30f88
 ---
 # XML Documentation Releases
 
@@ -104,4 +105,3 @@ The following list contains the latest XML Documentation packages available for 
       </tr>
     </tbody>
   </table>
-    
