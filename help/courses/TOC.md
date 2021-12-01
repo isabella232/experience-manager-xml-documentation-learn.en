@@ -18,4 +18,14 @@ breadcrumb-title: XML Documentation Videos
   + [Creating a Map](./course-1/creating-a-map.md)
   + [Publishing Default Output](./course-1/publishing-default-output.md)
   + [Recap](./course-1/recap.md)
++ Output Generation with XML Documentation {#output-generation}
+  + [Overview](./course-2/overview.md)
+  + [Understanding the Map Dashboard](./course-2/introduction-to-the-map-dashboard.md)
+  + [Working with Reports](./course-2/working-with-reports.md)
+  + [Creating and publishing with Baselines](./course-2/creating-and-publishing-with-baselines.md)
+  + [Publishing with Conditions](./course-2/publishing-with-conditions.md)
+  + [Understanding Output Presets](./course-2/output-presets.md)
+  + [Troubleshooting publishing errors](./course-2/troubleshooting-publishing-errors.md)
+  + [Bulk publishing](./course-2/bulk-publishing.md)
+  + [Recap](./course-2/recap.md)
   
