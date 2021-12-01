@@ -18,6 +18,7 @@ breadcrumb-title: XML Documentation Videos
   + [Creating a Map](./course-1/creating-a-map.md)
   + [Publishing Default Output](./course-1/publishing-default-output.md)
   + [Recap](./course-1/recap.md)
+  <!--
 + Output Generation with XML Documentation {#output-generation}
   + [Overview](./course-2/overview.md)
   + [Understanding the Map Dashboard](./course-2/introduction-to-the-map-dashboard.md)
@@ -28,4 +29,4 @@ breadcrumb-title: XML Documentation Videos
   + [Troubleshooting publishing errors](./course-2/troubleshooting-publishing-errors.md)
   + [Bulk publishing](./course-2/bulk-publishing.md)
   + [Recap](./course-2/recap.md)
-  
+  >
