@@ -15,7 +15,8 @@ Check out this space for video based tutorials for XML Documentation for Adobe E
 
     *Learn how to create, organize, author and publish content with XML Documentation for Adobe Experience Manager.*
 
-
+<!--
 * **[Output Generation with XML Documentation](course-2/overview.md)**
 
     *Learn how to generate output using XML Documentation for Adobe Experience Manager. Learn about various features available for output generation - reports, baselines, conditions, troubleshooting, bulk publishing and activation.*
+>
