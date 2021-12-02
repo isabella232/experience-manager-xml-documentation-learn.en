@@ -97,7 +97,7 @@ The label has been added to all topics.
 
 2. Select the AEM Site checkbox.
 
-    ![aem-site-checkbox.png](images/aem-site-checkbox.png) 
+    ![aem-site-checkbox.png](images/aem-check.png) 
 
 3. Select **Edit**.
 
