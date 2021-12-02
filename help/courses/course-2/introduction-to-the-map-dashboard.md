@@ -7,7 +7,7 @@ description: Introduction to the Map Dashboard
 
 The following will provide an overview of the map dashboard’s main features.
 
->[!VIDEO](https://video.tv.adobe.com/v/338991)
+>[!VIDEO](https://video.tv.adobe.com/v/339040)
 
 ## Open a map in the Map Dashboard
 

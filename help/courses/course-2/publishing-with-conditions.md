@@ -7,7 +7,7 @@ description: Publishing with conditions with XML Documentation for Adobe Experie
 
 Conditional publishing allows one source of content to be written for one or more audience, product, or platform. This information can then be dynamically published and only specifically required content included in the output.
 
->[!VIDEO](https://video.tv.adobe.com/v/338988)
+>[!VIDEO](https://video.tv.adobe.com/v/339041)
 
 ## Preparing for the exercise
 

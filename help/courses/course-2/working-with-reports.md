@@ -7,7 +7,7 @@ description: Working with Reports in XML Documentation for Adobe Experience Mana
 
 The Reports tab in the Map Dashboard allows you to identify and resolve broken links, content that is referenced and reused (conrefs), cross references, or other missing information. 
 
->[!VIDEO](https://video.tv.adobe.com/v/338992)
+>[!VIDEO](https://video.tv.adobe.com/v/339039)
 
 ## Preparing for the exercise
 
