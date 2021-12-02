@@ -18,11 +18,11 @@ You can download sample files for the exercise here.
 
 1. In Repository View, select the Ellipsis icon on your main folder to open the Options menu.
 
-    ![images/ellipses-9.png](images/ellipses-9.png)
+    ![ellipses-9.png](images/ellipses-9.png)
  
 2. Select **Upload Assets**.
 
-    ![images/upload-assets.png](images/upload-assets.png)
+    ![upload-assets.png](images/upload-assets.png)
  
 3. Select the files you would like to upload to the folder, and select **Upload**.
     
@@ -32,11 +32,11 @@ The DITA files open and you should review them for issues with missing content, 
 
 1. Select the Ellipsis icon on your main folder to open the Options menu.
 
-    ![images/ellipses-9.png](images/ellipses-9.png)
+    ![ellipses-9.png](images/ellipses-9.png)
  
 2. Select **Create > Map**.
 
-    ![images/create-map.png](images/create-map.png)
+    ![create-map.png](images/create-map.png)
 
     The Create New Map dialog displays.
 
@@ -51,11 +51,11 @@ Your map is created, and the left rail automatically changes from the Repository
 1. Select the pencil icon in the left rail.
 This is the Edit icon, and allows you to open the map in the editor.
 
-    ![images/edit-map.png](images/edit-map.png)
+    ![edit-map.png](images/edit-map.png)
 
 2. Switch back to Repository view by selecting the Repository icon.
 
-    ![images/repository-button.png](images/repository-button.png)
+    ![repository-button.png](images/repository-button.png)
 
 3. Add a topic to the map by dragging and dropping it from the Repository into the map in the editor.
 The line indicator will show you where your topic will be placed.
@@ -64,7 +64,7 @@ The line indicator will show you where your topic will be placed.
 
 5. When finished, select **Save As New Version.**
  
-    ![images/save-as-new-version.png](images/save-as-new-version.png)
+    ![save-as-new-version.png](images/save-as-new-version.png)
 
 6. In the *Comments for new Version* field, enter a descriptive comment.
 
@@ -74,12 +74,12 @@ The line indicator will show you where your topic will be placed.
 
 1. In the Repository, select the Ellipsis icon on your map to open the Options menu, and then **Open Map Dashboard.**
 
-    ![images/open-map-dashboard.png](images/open-map-dashboard.png)
+    ![open-map-dashboard.png](images/open-map-dashboard.png)
 
     The Map Dashboard opens in another tab.
 2. In the Output Presets tab, select **AEM Site**.
 
-    ![images/aem-site-checkbox.png](images/aem-site-checkbox.png)
+    ![aem-site-checkbox.png](images/aem-site-checkbox.png)
  
 3. Select **Generate**.
 
@@ -95,7 +95,7 @@ The Reports tab displays a topic summary, and a table containing topic informati
 
 Ideally you always check the Reports for a map after importing content.
 
-![images/reports.PNG](images/reports.PNG)
+![reports.png](images/reports.png)
 
 The Missing Elements column indicates the number of missing images and broken conrefs. You can select the **Pencil** icon to open the topic in the editor.
 
@@ -105,7 +105,7 @@ If images are missing from your files a common cause might be that content has b
 
 1. In *Repository View*, select the Ellipsis icon on your images folder to open the Options menu.
 
-    ![images/image-ellipsis.png](images/image-ellipsis.png)   
+    ![image-ellipsis.png](images/image-ellipsis.png)   
  
 2. Select **Upload Assets**, and select the missing images.
 
@@ -123,11 +123,11 @@ In addition to the Upload Assets option, you can upload assets by dragging and d
 
 1. In Repository View, select the Ellipsis icon on your reuse folder to open the Options menu.
 
-    ![images/reuse-ellipsis.png](images/reuse-ellipsis.png)
+    ![reuse-ellipsis.png](images/reuse-ellipsis.png)
  
 2. Select **View in Assets UI**. 
 
-    ![images/assets_ui.png](images/assets_ui.png)
+    ![assets_ui.png](images/assets_ui.png)
  
 3. Drag and drop the file into the folder.
 The file is uploaded, and the conref error is resolved.

@@ -13,7 +13,7 @@ An Output Preset is a collection of publishing properties that have been assigne
 
 An output preset is shown when a map in the XML Editor is opened in the Map Dashboard. Presets may include information about a specific output type, destination path, instructions on how to manage existing output pages, and other settings that can be applied to a map to generate output.
 
-![Access-Output-Presets](images\access-output-presets.png)
+![Access-Output-Presets](images/access-output-presets.png)
  
 ## Creating an Output Preset
 
