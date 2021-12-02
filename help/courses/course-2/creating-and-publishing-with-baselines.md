@@ -111,7 +111,7 @@ The label has been added to all topics.
 
 5. Select **Done**.
 
-    ![done.PNG](images/done.PNG)
+    ![done.png](images/done.png)
 
 6. Select **Generate**.
 
