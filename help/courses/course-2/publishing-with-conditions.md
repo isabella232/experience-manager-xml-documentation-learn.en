@@ -13,7 +13,7 @@ Conditional publishing allows one source of content to be written for one or mor
 
 You can download sample files for the exercise here.
 
-[Exercise-Download](assets/publishing-with-conditions.zip)
+[Exercise-Download](assets/exercises/publishing-with-conditions.zip)
 
 ## Marking up content with conditional attributes
 
