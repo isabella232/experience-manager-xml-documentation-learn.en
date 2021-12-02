@@ -79,7 +79,7 @@ The line indicator will show you where your topic will be placed.
     The Map Dashboard opens in another tab.
 2. In the Output Presets tab, select **AEM Site**.
 
-    ![aem-site-checkbox](images/aem-check.png)
+    ![aem-site-checkbox](images/aem-site-checkbox.png)
  
 3. Select **Generate**.
 
