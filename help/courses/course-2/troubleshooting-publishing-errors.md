@@ -13,7 +13,7 @@ Publishing a map is usually simple. Open the map, select an Output Preset, and g
 
 You can download sample files for the exercise here.
 
-![Exercise-Download] <!-- Link to the publishing-basics-to-advanced.zip -->
+<!-- ![Exercise-Download]  Link to the publishing-basics-to-advanced.zip -->
 
 ## Common causes of publishing errors
 
