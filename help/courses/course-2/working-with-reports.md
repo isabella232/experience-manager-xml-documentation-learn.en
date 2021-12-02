@@ -13,7 +13,6 @@ The Reports tab in the Map Dashboard allows you to identify and resolve broken l
 
 You can download sample files for the exercise here.
 
-<!-- ![Exercise-Download](assets/working-with-reports.zip) -->
 
 ## Uploading Assets
 
