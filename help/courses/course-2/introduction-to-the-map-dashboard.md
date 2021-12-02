@@ -1,8 +1,8 @@
 ---
 title: Introduction to the Map Dashboard
 description: Introduction to the Map Dashboard
+exl-id: c2efa073-15e7-42a0-aaa8-04859b0fdf62
 ---
-
 # Introduction to the Map Dashboard
 
 The following will provide an overview of the map dashboard’s main features.
@@ -68,5 +68,4 @@ The Reports tab displays a summary of topic information, including the number of
 
 ![images/reports.png](images/reports.png)
 
-If a topic is missing an element, you can select the rightmost arrow in the row to expand the entry and view details about the error. 
-
+If a topic is missing an element, you can select the rightmost arrow in the row to expand the entry and view details about the error.

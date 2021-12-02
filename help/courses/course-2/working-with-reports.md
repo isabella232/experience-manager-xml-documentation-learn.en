@@ -1,8 +1,8 @@
 ---
 title: Working with Reports
 description: Working with Reports in XML Documentation for Adobe Experience Manager
+exl-id: 755506a6-c416-4a8c-8359-8db7e63a90a4
 ---
-
 # Working with Reports
 
 The Reports tab in the Map Dashboard allows you to identify and resolve broken links, content that is referenced and reused (conrefs), cross references, or other missing information. 
@@ -134,5 +134,3 @@ In addition to the Upload Assets option, you can upload assets by dragging and d
 The file is uploaded, and the conref error is resolved.
 
 All the errors have now been resolved. The Reports page will indicate that there are no more errors, and generating an AEM Site results in a complete output with no missing components.
-
-

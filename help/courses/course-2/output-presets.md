@@ -1,8 +1,8 @@
 ---
 title: Output Presets
 description: An Output Preset is a collection of publishing properties that have been assigned to a map
+exl-id: b0c64737-48a0-4337-8a7f-35d1deb03366
 ---
-
 # Output Presets
 
 An Output Preset is a collection of publishing properties that have been assigned to a map. These can be created or modified if needed.

@@ -1,8 +1,8 @@
 ---
 title: Recap of Output Generation with XML Documentation
 description: Recap of Output Generation with XML Documentation for Adobe Experience Manager
+exl-id: 624b53a4-a5c3-4066-a7b9-9a913ccde93d
 ---
-
 # Recap
 
 In this course, you learned about the following:

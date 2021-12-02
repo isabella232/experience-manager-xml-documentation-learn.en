@@ -1,8 +1,8 @@
 ---
 title: Troubleshooting Publishing Errors
 description: Troubleshooting Publishing Errors in XML Documentation for Adobe Experience Manager
+exl-id: b37ea3e7-59cf-4fc5-8fae-e1fadd26f8d8
 ---
-
 # Troubleshooting Publishing Errors
 
 Publishing a map is usually simple. Open the map, select an Output Preset, and generate output! However, if a map, or its topics have errors in them the output generation can fail. When this happens, it’s important to know how to troubleshoot.

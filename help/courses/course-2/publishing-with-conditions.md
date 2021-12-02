@@ -1,8 +1,8 @@
 ---
 title: Publishing with conditions
 description: Publishing with conditions with XML Documentation for Adobe Experience Manager
+exl-id: ea94824a-884b-447f-9562-e6c629b8133b
 ---
-
 # Publishing with conditions
 
 Conditional publishing allows one source of content to be written for one or more audience, product, or platform. This information can then be dynamically published and only specifically required content included in the output.

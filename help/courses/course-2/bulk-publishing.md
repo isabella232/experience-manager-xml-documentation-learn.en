@@ -1,8 +1,8 @@
 ---
 title: Bulk Publishing
 description: Bulk Publishing in XML Documentation for Adobe Experience Manager
+exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
 ---
-
 # Bulk Publishing
 
 When publishing there is often a need for more than one type of documentation. Using Map Collections you can control the number and types of output that will be assembled and generated and kick off bulk publishing. The Publish Dashboard allows you to view active publish jobs. The Bulk Publish Dashboard provides a way to activate collections in bulk.

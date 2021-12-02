@@ -1,8 +1,8 @@
 ---
 title: Creating and Publishing With Baselines
 description: Creating and Publishing With Baselines in XML Documentation for Adobe Experience Manager
+exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
 ---
-
 # Creating and Publishing With Baselines
 
 Using a baseline allows you to create a version of your map topics and related reference content. This can be based on a specific date or time, or labels. 
@@ -199,4 +199,3 @@ In this case, we are creating an output preset based on a baseline.
 5. Select **Done**.
  
 Your new output preset has been created, and displays on the output presets page.
-
