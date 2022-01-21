@@ -1,7 +1,9 @@
 ---
-title: Release Notes | XML Documentation for AEM January 2022 release 
-description: Latest XML Documentation releases and pre-requisite AEM versions
+title: Release Notes | XML Documentation for AEMaaCS January 2022 release 
+description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 ---
+
+# Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 
 ## Upgrade to the latest version
 
