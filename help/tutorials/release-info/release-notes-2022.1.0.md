@@ -1,20 +1,23 @@
 ---
-title: Release Notes | XML Documentation for AEM January 2022 release 
-description: Latest XML Documentation releases and pre-requisite AEM versions
+
+title: Release Notes | XML Documentation for AEMaaCS January 2022 release 
+description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 ---
 
-# Upgrade to the latest version
+# Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
+
+## Upgrade to the latest version
 
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Checkout the Cloud Servies' Git code and switch to the branch configured in Cloud Servies pipeline corresponding to the environment you want to upgrade.
 1. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Servies Git code.
 1. Commit the changes and run the Cloud Servies pipeline to upgrade to the latest version of XML Documentation.
 
-# Compatibility matrix
+## Compatibility matrix
 
 This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services January 2022 release. 
 
-## FrameMaker and FrameMaker Publishing Server
+### FrameMaker and FrameMaker Publishing Server
 
 | FMPS | FrameMaker |
 | --- | --- |
@@ -23,7 +26,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 *\*Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.*
 
-## Oxygen Connector
+### Oxygen Connector
 
 | Release | Oxygen Connector Windows | Oxygen Connector Mac | Edit in Oxygen Windows | Edit in Oxygen Mac |
 | --- | --- | --- | --- | --- |
@@ -31,9 +34,9 @@ This section lists the compatibility matrix for the software applications suppor
 |  |  |  |  |  |
 
 
-# New features and enhancements
+## New features and enhancements
 
-## Article-based publishing
+### Article-based publishing
 
 With January release, we have introduced an article-based publishing feature integrated within the Web Editor. You can use the article-based publishing feature to incrementally generate output of one or more topics or publish your content to a knowledgebase platform.
 
@@ -48,7 +51,7 @@ This on-the-go need-based article publishing not only gives you complete control
 As you publish your articles using this template, it can also pass on the metadata to your published pages.
 For more details, see *Article-based publishing from the Web Editor* in the User Guide.
 
-# Improved Web Editor
+### Improved Web Editor
 
 There are a lot of enhancements and new features that are introduced in the Web Editor:
 
@@ -71,14 +74,14 @@ There are a lot of enhancements and new features that are introduced in the Web 
 
 * You can now upload .docx files from the Web Editor.
 
-# Author with FrameMaker
+### Author with FrameMaker
 
 Now you can author and publish your documents in FrameMaker. FrameMaker ships with an out-of-the-box connector to Adobe Experience Manager. In FrameMaker you get an easy-to-use interface that allows you to maintain versions of your documents in a distributed and collaborative environment. 
 
 Once you have created your content, FrameMaker allows you to publish your documents in different formats - PDF, HTML5, EPUB, and DITA. You can also perform the various file management operations like checkout, checkout with dependents, check-in, refresh, and so on. 
 To author with FrameMaker  in XML Documentation solution as Cloud Services use FrameMaker version 2020.4 and above.
 
-# New translation dashboard
+### New translation dashboard
 
 A new translation dashboard has been introduced in the Web Editor with the following features:
 
@@ -90,7 +93,7 @@ A new translation dashboard has been introduced in the Web Editor with the follo
 
 ![Translation dashboard](assets/translation-from-web-editor.png)
 
-# Enhanced publishing
+### Enhanced publishing
 
 * Authors can now pass map- and topic-level metadata to DITA-OT publishing. This is helpful when custom PDF templates are designed to use file metadata properties like tags, author, document state, and more.
 
@@ -98,7 +101,7 @@ A new translation dashboard has been introduced in the Web Editor with the follo
 
 * A new configuration has been added in the configMgr to allow users to retain or delete the versions of the topics being deleted when **Delete and Create** option is used in the AEM Site output generation.
 
-# Improved file handling
+### Improved file handling
 
 The following improvements can now be seen while working with files in AEM Assets:
 * A new file upload experience and a new dialog for choosing a conflict resolution strategy has been introduced.
@@ -112,13 +115,13 @@ The following improvements can now be seen while working with files in AEM Asset
 
 * Whenever the user creates a DITA file, the default filename appears in small casing to be inline with Native AEM folder creation scenario. 
 
-# New report export feature
+### New report export feature
 
 Reports are very useful in identifying the health of your content. XML Documentation solution provides various reports to take control of your content. Now, you can not only view the reports, but also export the report data in a CSV file to view and share with your larger team. Report data can give you a quick glance of any broken links or missing images.
 
 ![Report export](assets/version-history-preview-image.png)
 
-# Other feature enhancements
+### Other feature enhancements
 
 * In accordance to AEM’s best practices, application data has now been migrated from **/content/fmdita**, **/etc/fmdita/**, and **/content/dxml/** to newer location.
 * DAM Asset Update workflow has been reintroduced with better handling and optimized performance to run along with XML post-processing workflow.
@@ -127,11 +130,11 @@ Reports are very useful in identifying the health of your content. XML Documenta
 * Now download the default **ui_config.json** file from your folder profiles. This can be used to merge custom changes from the existing **ui_config.json** file while upgrading.
 * You do not need to clear the browser cache even when new versions of JS files are present.
 
-# Fixed issues
+## Fixed issues
 
 The bugs fixed in various areas are listed below:
 
-## Web Editor
+### Web Editor
 
 * conrefs appears in red color even when they are not broken. (8239)
 * Value for conditional attribute is not auto populated when Add All Properties is selected in the DITAVAL editor. (8234)
@@ -170,19 +173,19 @@ The bugs fixed in various areas are listed below:
 * Cursor is not displayed in search bar when insert element dialog is opened using the keyboard shortcut Alt+Enter.(7912)
 * Search option only searches in file names and not in content. (7784)
 
-## Oxygen Connector
+### Oxygen Connector
 
 * Files whose parent folder has special characters give error while loading in Oxygen. (8054)
 * When a newly created document is opened in Oxygen, it throws "Cannot find GUID" error. (7856)
 * Check-in option is disabled after the file is checked-out from AEM using Edit in Oxygen. (7471)
 * Issues occurring with Oxygen connector on lapwing. (8082)
 
-## Review
+### Review
 
 * When review tasks are being reassigned from the AEM inbox, the payloads associated with the tasks are not viewable by the assignees. (8003)
 * Real time synchronization is not working for comments sync was not working (7661)
 
-## Map dashboard
+### Map dashboard
 
 * Unable to see conref content in title of a topic in map dashboard's topics or reports tab. (8263)
 * AEM Sites Output | jcr:title of the generated site page does not update when DITA topic title is updated. (8131)
@@ -192,7 +195,7 @@ The bugs fixed in various areas are listed below:
 * The download map operation has been changed to Async operation i.e. the system will process the download request in backend while the user can continue to work on other areas of the application. Once the download is complete, the user will be notified in the inbox notification (8523)
 * Apply Labels dialog on the Baseline tab does not display labels in dropdown. (8455)
 
-## Publishing
+### Publishing
 
 * PDF creation fails for the first time when Enable Versioning is selected. (8053, 8294)
 * For non-UUID content, conref images are not shown in AEM Site output. (7907)
@@ -212,7 +215,7 @@ The bugs fixed in various areas are listed below:
 * Topic regeneration is not working. (8091)
 * Issues exist with publishing footnotes in tables. (4709)
 
-## AEM Assets
+### AEM Assets
 
 * Performance issues found while performing selection/deletion on huge content set in Assets UI. (8238)
 * Saved search feature (smart collection) breaks if DITA Predicate is added to Search filters. (8048)
@@ -225,7 +228,7 @@ The bugs fixed in various areas are listed below:
 * Incorrect references  occur in source on moving the assets. (8627)
 * Fixed list view doesn’t get loaded. (8542)
 
-## Content import
+### Content import
 
 * HTML to DITA conversion | Table with 'tr' having empty 'td' entries causes additional rows in output. (8132)
 * HTML to DITA conversion | HTML having a table with multiple tbody fails with exception. (7940)
