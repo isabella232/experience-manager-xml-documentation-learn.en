@@ -2,6 +2,8 @@
 
 title: Release Notes | XML Documentation for AEMaaCS January 2022 release 
 description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
+hide: yes
+hidefromtoc: yes
 ---
 
 # Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
