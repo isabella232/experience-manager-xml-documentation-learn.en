@@ -123,11 +123,10 @@ Reports are very useful in identifying the health of your content. XML Documenta
 
 ![Report export](assets/version-history-preview-image.png)
 
-### Other feature enhancements
+## Improved Oxygen DAM refresh experience
+When you refresh files from AEM Server in Oxygen, a warning message is displayed if you have unsaved files in your current Oxygen session. You can choose to cancel the refresh operation to save any unsaved files. Without this feature, users were losing any unsaved information in their documents. 
 
-* In accordance to AEM’s best practices, application data has now been migrated from **/content/fmdita**, **/etc/fmdita/**, and **/content/dxml/** to newer location.
-* DAM Asset Update workflow has been reintroduced with better handling and optimized performance to run along with XML post-processing workflow.
-* XML Documentation API package is now available in a publicly accessible Maven repo.
+### Other feature enhancements
 * You can now create a new **Dita Project** template under the **/apps/projects/templates** path.
 * Now download the default **ui_config.json** file from your folder profiles. This can be used to merge custom changes from the existing **ui_config.json** file while upgrading.
 * You do not need to clear the browser cache even when new versions of JS files are present.
@@ -159,15 +158,15 @@ The bugs fixed in various areas are listed below:
 * Unexpected space is found in each blank `<entry>` element when outputclass attribute is added to `<tgroup>` element. (7532)
 * Source button does not work for topics opened via map dashboard. (7465)
 * Pretty print inserts blank lines and spaces that can be seen when the file is opened in FrameMaker or Oxygen. (7408)
-* Maps with href="/" in any of the topics do not publish on AEM sites (7405)
+* Maps with href="/" in any of the topics do not publish on AEM sites. (7405)
 * Performance issues found in the editor when the root map has large number of keydefs. (7400)
 * Document state for a map with custom template is not getting inherited from its corresponding states profile. (7359)
 * `<tm>` element incorrectly rendered as a block element. (7286)
 * Duplicate templates are displayed in editor templates panel when a new template is created. (5814)
 * Templates defined in ui_config for images for setting additional attribute is not applicable for drag/drop cases. (5713)
 * Incorrect default appearance of uicontrol in menucascade. (5483)
-* Custom templates for Topic/Map do not show new name in the UI. It shows the name as "Topic"/"Map" rather than showing the configured name (4958)
-* Ability to clear rootmap from the user preferences settings (8534)
+* Custom templates for Topic/Map do not show new name in the UI. It shows the name as "Topic"/"Map" rather than showing the configured name. (4958)
+* Ability to clear rootmap from the user preferences settings. (8534)
 * A newly created map collection is not listed, even after refreshing the page.(8603)
 * Unlocked topic cannot be closed. (8545)
 * Switching between source and author mode marks the topic as dirty and requires the content to be saved again.(8524)
@@ -185,7 +184,7 @@ The bugs fixed in various areas are listed below:
 ### Review
 
 * When review tasks are being reassigned from the AEM inbox, the payloads associated with the tasks are not viewable by the assignees. (8003)
-* Real time synchronization is not working for comments sync was not working (7661)
+* Real time synchronization is not working for comments sync was not working. (7661)
 
 ### Map dashboard
 
@@ -194,7 +193,7 @@ The bugs fixed in various areas are listed below:
 * Download MAP does not download the video files used inside the topics. (8070)
 * Media files are not downloading when the object Tag is used through the download bookmap API. (8057)
 * Incorrect report is shown in Reports tab if any topic has conref to file whose title starts with conref. (4698)
-* The download map operation has been changed to Async operation i.e. the system will process the download request in backend while the user can continue to work on other areas of the application. Once the download is complete, the user will be notified in the inbox notification (8523)
+* The download map operation has been changed to Async operation i.e. the system will process the download request in backend while the user can continue to work on other areas of the application. Once the download is complete, the user will be notified in the inbox notification. (8523)
 * Apply Labels dialog on the Baseline tab does not display labels in dropdown. (8455)
 
 ### Publishing
