@@ -126,6 +126,7 @@ Reports are very useful in identifying the health of your content. XML Documenta
 ## Improved Oxygen DAM refresh experience
 When you refresh files from AEM Server in Oxygen, a warning message is displayed if you have unsaved files in your current Oxygen session. You can choose to cancel the refresh operation to save any unsaved files. Without this feature, users were losing any unsaved information in their documents. 
 
+
 ### Other feature enhancements
 * You can now create a new **Dita Project** template under the **/apps/projects/templates** path.
 * Now download the default **ui_config.json** file from your folder profiles. This can be used to merge custom changes from the existing **ui_config.json** file while upgrading.
