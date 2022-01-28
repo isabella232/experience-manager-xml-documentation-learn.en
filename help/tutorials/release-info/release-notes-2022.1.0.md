@@ -68,7 +68,7 @@ There are a lot of enhancements and new features that are introduced in the Web 
 * Added refresh functionality in Reusable Content panel that allows you to quickly refresh the reusable content in reference files.
 * New working copy indicator shows you whether your current (working copy) of file is in sync with the saved version or not.
 
-![Version indicator](assets/glossary-hotspot-tool.png)
+![Version indicator](assets/version-update-indicator.png)
 
 * Search filter in the Repository Panel and file browse dialog has been enhanced to give more filtering options, which can be further customized.
 
@@ -141,6 +141,7 @@ The bugs fixed in various areas are listed below:
 * conrefs appears in red color even when they are not broken. (8239)
 * Value for conditional attribute is not auto populated when Add All Properties is selected in the DITAVAL editor. (8234)
 * Authors are unable to insert an image in a topic using relative path. (8112)
+* Review task page not showing the multimedia files if spaces are present in the file name. (8111)
 * Ph conref added in table cell are displayed in red color. (8083)
 * In case of UUID-based systems, links in a review task do not update when the files under review are moved. (8080)
 * Web Editor does not correctly render images that have scaling property set to 75% or higher. (8073)
@@ -180,7 +181,7 @@ The bugs fixed in various areas are listed below:
 * Files whose parent folder has special characters give error while loading in Oxygen. (8054)
 * When a newly created document is opened in Oxygen, it throws "Cannot find GUID" error. (7856)
 * Check-in option is disabled after the file is checked-out from AEM using Edit in Oxygen. (7471)
-* Issues occurring with Oxygen connector on lapwing. (8082)
+
 
 ### Review
 
@@ -194,7 +195,6 @@ The bugs fixed in various areas are listed below:
 * Download MAP does not download the video files used inside the topics. (8070)
 * Media files are not downloading when the object Tag is used through the download bookmap API. (8057)
 * Incorrect report is shown in Reports tab if any topic has conref to file whose title starts with conref. (4698)
-* The download map operation has been changed to Async operation i.e. the system will process the download request in backend while the user can continue to work on other areas of the application. Once the download is complete, the user will be notified in the inbox notification. (8523)
 * Apply Labels dialog on the Baseline tab does not display labels in dropdown. (8455)
 
 ### Publishing
@@ -224,7 +224,6 @@ The bugs fixed in various areas are listed below:
 * Reverting image to older version does not work. (DXML-7903)
 * Delete option is also visible for authors who do not have permission for delete. (7322)
 * CCMS overlay for Assets Editor breaks rendering of Delete option. (8093)
-* Whenever the user creates a DITA file, the default filename appears in small casing (8383) to be inline with Native AEM folder creation scenario. (8383)
 * Document profile is not getting deleted. (8604)
 * References break on performing "Select All" and moving the multimedia/Dita_Content to some other folder. (8621)
 * Incorrect references  occur in source on moving the assets. (8627)
