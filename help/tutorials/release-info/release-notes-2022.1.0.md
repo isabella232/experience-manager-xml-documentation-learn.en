@@ -1,11 +1,10 @@
 ---
-
-title: Release Notes | XML Documentation for AEMaaCS January 2022 release 
+title: Release Notes | XML Documentation for AEMaaCS January 2022 release
 description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 hide: yes
 hidefromtoc: yes
+exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
-
 # Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 
 ## Upgrade to the latest version
@@ -238,6 +237,3 @@ The bugs fixed in various areas are listed below:
 * HTML to DITA conversion | HTML having a table with multiple tbody fails with exception. (7940)
 * HTML to DITA conversion | errors out if source HTML has comments. (7937)
 * Importing DITA 1.3 DITA files causes some href to transform into malformed links. (8019)
-
-
-
