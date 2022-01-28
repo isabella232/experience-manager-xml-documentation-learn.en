@@ -68,7 +68,7 @@ There are a lot of enhancements and new features that are introduced in the Web 
 * Added refresh functionality in Reusable Content panel that allows you to quickly refresh the reusable content in reference files.
 * New working copy indicator shows you whether your current (working copy) of file is in sync with the saved version or not.
 
-![Version indicator](assets/glossary-hotspot-tool.png)
+![Version indicator](assets/version-update-indicator.png)
 
 * Search filter in the Repository Panel and file browse dialog has been enhanced to give more filtering options, which can be further customized.
 
@@ -123,11 +123,13 @@ Reports are very useful in identifying the health of your content. XML Documenta
 
 ![Report export](assets/version-history-preview-image.png)
 
+## Improved Oxygen DAM refresh experience
+
+When you refresh files from AEM Server in Oxygen, a warning message is displayed if you have unsaved files in your current Oxygen session. You can choose to cancel the refresh operation to save any unsaved files. Without this feature, users were losing any unsaved information in their documents. 
+
+
 ### Other feature enhancements
 
-* In accordance to AEM’s best practices, application data has now been migrated from **/content/fmdita**, **/etc/fmdita/**, and **/content/dxml/** to newer location.
-* DAM Asset Update workflow has been reintroduced with better handling and optimized performance to run along with XML post-processing workflow.
-* XML Documentation API package is now available in a publicly accessible Maven repo.
 * You can now create a new **Dita Project** template under the **/apps/projects/templates** path.
 * Now download the default **ui_config.json** file from your folder profiles. This can be used to merge custom changes from the existing **ui_config.json** file while upgrading.
 * You do not need to clear the browser cache even when new versions of JS files are present.
@@ -141,6 +143,7 @@ The bugs fixed in various areas are listed below:
 * conrefs appears in red color even when they are not broken. (8239)
 * Value for conditional attribute is not auto populated when Add All Properties is selected in the DITAVAL editor. (8234)
 * Authors are unable to insert an image in a topic using relative path. (8112)
+* Review task page not showing the multimedia files if spaces are present in the file name. (8111)
 * Ph conref added in table cell are displayed in red color. (8083)
 * In case of UUID-based systems, links in a review task do not update when the files under review are moved. (8080)
 * Web Editor does not correctly render images that have scaling property set to 75% or higher. (8073)
@@ -159,15 +162,15 @@ The bugs fixed in various areas are listed below:
 * Unexpected space is found in each blank `<entry>` element when outputclass attribute is added to `<tgroup>` element. (7532)
 * Source button does not work for topics opened via map dashboard. (7465)
 * Pretty print inserts blank lines and spaces that can be seen when the file is opened in FrameMaker or Oxygen. (7408)
-* Maps with href="/" in any of the topics do not publish on AEM sites (7405)
+* Maps with href="/" in any of the topics do not publish on AEM sites. (7405)
 * Performance issues found in the editor when the root map has large number of keydefs. (7400)
 * Document state for a map with custom template is not getting inherited from its corresponding states profile. (7359)
 * `<tm>` element incorrectly rendered as a block element. (7286)
 * Duplicate templates are displayed in editor templates panel when a new template is created. (5814)
 * Templates defined in ui_config for images for setting additional attribute is not applicable for drag/drop cases. (5713)
 * Incorrect default appearance of uicontrol in menucascade. (5483)
-* Custom templates for Topic/Map do not show new name in the UI. It shows the name as "Topic"/"Map" rather than showing the configured name (4958)
-* Ability to clear rootmap from the user preferences settings (8534)
+* Custom templates for Topic/Map do not show new name in the UI. It shows the name as "Topic"/"Map" rather than showing the configured name. (4958)
+* Ability to clear rootmap from the user preferences settings. (8534)
 * A newly created map collection is not listed, even after refreshing the page.(8603)
 * Unlocked topic cannot be closed. (8545)
 * Switching between source and author mode marks the topic as dirty and requires the content to be saved again.(8524)
@@ -175,17 +178,18 @@ The bugs fixed in various areas are listed below:
 * Cursor is not displayed in search bar when insert element dialog is opened using the keyboard shortcut Alt+Enter.(7912)
 * Search option only searches in file names and not in content. (7784)
 
+
 ### Oxygen Connector
 
 * Files whose parent folder has special characters give error while loading in Oxygen. (8054)
 * When a newly created document is opened in Oxygen, it throws "Cannot find GUID" error. (7856)
 * Check-in option is disabled after the file is checked-out from AEM using Edit in Oxygen. (7471)
-* Issues occurring with Oxygen connector on lapwing. (8082)
+
 
 ### Review
 
 * When review tasks are being reassigned from the AEM inbox, the payloads associated with the tasks are not viewable by the assignees. (8003)
-* Real time synchronization is not working for comments sync was not working (7661)
+* Real time synchronization is not working for comments sync was not working. (7661)
 
 ### Map dashboard
 
@@ -194,7 +198,6 @@ The bugs fixed in various areas are listed below:
 * Download MAP does not download the video files used inside the topics. (8070)
 * Media files are not downloading when the object Tag is used through the download bookmap API. (8057)
 * Incorrect report is shown in Reports tab if any topic has conref to file whose title starts with conref. (4698)
-* The download map operation has been changed to Async operation i.e. the system will process the download request in backend while the user can continue to work on other areas of the application. Once the download is complete, the user will be notified in the inbox notification (8523)
 * Apply Labels dialog on the Baseline tab does not display labels in dropdown. (8455)
 
 ### Publishing
@@ -224,7 +227,6 @@ The bugs fixed in various areas are listed below:
 * Reverting image to older version does not work. (DXML-7903)
 * Delete option is also visible for authors who do not have permission for delete. (7322)
 * CCMS overlay for Assets Editor breaks rendering of Delete option. (8093)
-* Whenever the user creates a DITA file, the default filename appears in small casing (8383) to be inline with Native AEM folder creation scenario. (8383)
 * Document profile is not getting deleted. (8604)
 * References break on performing "Select All" and moving the multimedia/Dita_Content to some other folder. (8621)
 * Incorrect references  occur in source on moving the assets. (8627)
