@@ -124,10 +124,12 @@ Reports are very useful in identifying the health of your content. XML Documenta
 ![Report export](assets/version-history-preview-image.png)
 
 ## Improved Oxygen DAM refresh experience
+
 When you refresh files from AEM Server in Oxygen, a warning message is displayed if you have unsaved files in your current Oxygen session. You can choose to cancel the refresh operation to save any unsaved files. Without this feature, users were losing any unsaved information in their documents. 
 
 
 ### Other feature enhancements
+
 * You can now create a new **Dita Project** template under the **/apps/projects/templates** path.
 * Now download the default **ui_config.json** file from your folder profiles. This can be used to merge custom changes from the existing **ui_config.json** file while upgrading.
 * You do not need to clear the browser cache even when new versions of JS files are present.
@@ -175,6 +177,7 @@ The bugs fixed in various areas are listed below:
 * Reuse content panel crashes on searching special characters `[` or `*` .(8279)
 * Cursor is not displayed in search bar when insert element dialog is opened using the keyboard shortcut Alt+Enter.(7912)
 * Search option only searches in file names and not in content. (7784)
+
 
 ### Oxygen Connector
 
