@@ -1,5 +1,5 @@
 ---
-title: Release Notes | XML Documentation for AEMaaCS January 2022 release
+title: Release Notes | XML Documentation for AEMaaCS February 2022 release
 description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 hide: yes
 hidefromtoc: yes
@@ -16,7 +16,7 @@ Upgrade your current Cloud Services setup by performing the following steps:
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services January 2022 release. 
+This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services February 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -39,7 +39,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### Article-based publishing
 
-With January release, we have introduced an article-based publishing feature integrated within the Web Editor. You can use the article-based publishing feature to incrementally generate output of one or more topics or publish your content to a knowledgebase platform.
+With February release, we have introduced an article-based publishing feature integrated within the Web Editor. You can use the article-based publishing feature to incrementally generate output of one or more topics or publish your content to a knowledgebase platform.
 
 This feature allows the users to build the DITA map in an additive fashion and publish topics as and when they are ready. Once you have published your map, use the article-based publishing feature to achieve incremental publishing for the updated articles only.
 
