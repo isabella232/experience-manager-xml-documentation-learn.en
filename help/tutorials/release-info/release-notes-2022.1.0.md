@@ -23,7 +23,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 | FMPS | FrameMaker |
 | --- | --- |
-| Not compatible | Update 4 and above |
+| Not compatible | 2020 Update 4 and above |
 | | |
 
 *\*Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.*
@@ -101,7 +101,7 @@ A new translation dashboard has been introduced in the Web Editor with the follo
 
 ![DITA-OT metadata](assets/custom-meta-data-output-preset.png)
 
-* A new configuration has been added in the configMgr to allow users to retain or delete the versions of the topics being deleted when **Delete and Create** option is used in the AEM Site output generation.
+* A new configuration has been added to allow users to retain or delete the versions of the topics being deleted when **Delete and Create** option is used in the AEM Site output generation.
 
 ### Improved file handling
 
@@ -121,7 +121,7 @@ The following improvements can now be seen while working with files in AEM Asset
 
 Reports are very useful in identifying the health of your content. XML Documentation solution provides various reports to take control of your content. Now, you can not only view the reports, but also export the report data in a CSV file to view and share with your larger team. Report data can give you a quick glance of any broken links or missing images.
 
-![Report export](assets/version-history-preview-image.png)
+![Report export](assets/export-report.png)
 
 ## Improved Oxygen DAM refresh experience
 
@@ -140,7 +140,7 @@ The bugs fixed in various areas are listed below:
 
 ### Web Editor
 
-* conrefs appears in red color even when they are not broken. (8239)
+* Conrefs appear in red color even when they are not broken. (8239)
 * Value for conditional attribute is not auto populated when Add All Properties is selected in the DITAVAL editor. (8234)
 * Authors are unable to insert an image in a topic using relative path. (8112)
 * Review task page not showing the multimedia files if spaces are present in the file name. (8111)
