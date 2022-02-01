@@ -1,10 +1,11 @@
 ---
 title: Release Notes | XML Documentation for AEMaaCS January 2022 release
-description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
+description: Latest XML Documentation releases for AEMaaCS 
 hide: yes
 hidefromtoc: yes
 exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
+# Latest XML Documentation releases for AEMaaCS
 
 ## Upgrade to the latest version
 
