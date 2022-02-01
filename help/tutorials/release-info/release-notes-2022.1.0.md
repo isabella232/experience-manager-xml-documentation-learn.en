@@ -1,11 +1,10 @@
 ---
-title: Release Notes | XML Documentation for AEMaaCS February 2022 release
+title: Release Notes | XML Documentation for AEMaaCS January 2022 release
 description: Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 hide: yes
 hidefromtoc: yes
 exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
-# Latest XML Documentation releases for AEMaaCS and pre-requisite AEM versions
 
 ## Upgrade to the latest version
 
@@ -16,7 +15,7 @@ Upgrade your current Cloud Services setup by performing the following steps:
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services February 2022 release. 
+This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services January 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -39,7 +38,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### Article-based publishing
 
-With February release, we have introduced an article-based publishing feature integrated within the Web Editor. You can use the article-based publishing feature to incrementally generate output of one or more topics or publish your content to a knowledgebase platform.
+With January release, we have introduced an article-based publishing feature integrated within the Web Editor. You can use the article-based publishing feature to incrementally generate output of one or more topics or publish your content to a knowledgebase platform.
 
 This feature allows the users to build the DITA map in an additive fashion and publish topics as and when they are ready. Once you have published your map, use the article-based publishing feature to achieve incremental publishing for the updated articles only.
 
@@ -188,7 +187,7 @@ The bugs fixed in various areas are listed below:
 ### Review
 
 * When review tasks are being reassigned from the AEM inbox, the payloads associated with the tasks are not viewable by the assignees. (8003)
-* Real time synchronization is not working for comments sync was not working. (7661)
+* Real time synchronization is not working for comments. (7661)
 
 ### Map dashboard
 
@@ -237,3 +236,42 @@ The bugs fixed in various areas are listed below:
 * HTML to DITA conversion | HTML having a table with multiple tbody fails with exception. (7940)
 * HTML to DITA conversion | errors out if source HTML has comments. (7937)
 * Importing DITA 1.3 DITA files causes some href to transform into malformed links. (8019)
+
+## Known issues
+
+Adobe has identified the following known issues for XML Documentation for AEM as a Cloud Service January 2022 release. 
+
+### Known issues with workaround
+
+Use the given workaround for the following known issues:
+
+*	The web authentication is not working for the Oxygen connector on Mac.
+
+**Workaround**: Use the Oxygen connector on Windows for now.
+*	In the Firefox browser, the review comments cannot be imported without opening the side-by-side view.
+
+**Workaround**: Use the Chrome browser for now.
+*	References break on moving the images or multimedia files that have space(s) in the file names.
+
+**Workaround**: Rename the file and remove the spaces from the file name before moving them.
+*	The map dashboard is not loading properly in the latest version of the Chrome browser.
+
+**Workaround**: Refresh the map dashboard page
+
+*	DITAVAL files are not honored in article-based publishing.
+
+**Workaround**: Use conditions presets in article-based publishing.
+*	Dragging and dropping a condition doesn’t work on DITA topics.
+
+**Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
+*	DITAVAL file upload on cloud server fails when AEM desktop tool is used.
+
+**Workaround**: Create a file manually on the server and copy-paste contents from the local file.
+
+### Other known issues
+
+*	If Oxygen is connected with XML Documentation solution using web authentication, then logout fails.
+*	Review tasks cannot be reassigned to the users.
+*	Images cannot be edited.
+*	Issues are present in the Map collection UI like the text is distorted and **Select All** functionality is not working correctly.
+
