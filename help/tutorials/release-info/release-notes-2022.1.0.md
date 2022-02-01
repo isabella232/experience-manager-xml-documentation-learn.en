@@ -25,11 +25,10 @@ This section lists the compatibility matrix for the software applications suppor
 | Not compatible | 2020 Update 4 and above |
 | | |
 
-*\*Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.*
 
 ### Oxygen Connector
 
-| Release | Oxygen Connector Windows | Oxygen Connector Mac | Edit in Oxygen Windows | Edit in Oxygen Mac |
+| XML Documentation Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | Edit in Oxygen Windows | Edit in Oxygen Mac |
 | --- | --- | --- | --- | --- |
 | 2022.1.0 | 2.4.0 | 2.4.0 | 2.2 | 2.2 |
 |  |  |  |  |  |
@@ -122,7 +121,7 @@ Reports are very useful in identifying the health of your content. XML Documenta
 
 ![Report export](assets/export-report.png)
 
-## Improved Oxygen DAM refresh experience
+### Improved Oxygen DAM refresh experience
 
 When you refresh files from AEM Server in Oxygen, a warning message is displayed if you have unsaved files in your current Oxygen session. You can choose to cancel the refresh operation to save any unsaved files. Without this feature, users were losing any unsaved information in their documents. 
 
@@ -144,7 +143,7 @@ The bugs fixed in various areas are listed below:
 * Authors are unable to insert an image in a topic using relative path. (8112)
 * Review task page not showing the multimedia files if spaces are present in the file name. (8111)
 * Ph conref added in table cell are displayed in red color. (8083)
-* In case of UUID-based systems, links in a review task do not update when the files under review are moved. (8080)
+* Links in review task will not get updated when the files under review are moved. (8080)
 * Web Editor does not correctly render images that have scaling property set to 75% or higher. (8073)
 * GIF images are rendered as static images in the Web Editor. (8024)
 * A conkeyref in a note element is not displayed in the Web Editor preview or in the output. (8006)
@@ -187,7 +186,6 @@ The bugs fixed in various areas are listed below:
 
 ### Review
 
-* When review tasks are being reassigned from the AEM inbox, the payloads associated with the tasks are not viewable by the assignees. (8003)
 * Real time synchronization is not working for comments. (7661)
 
 ### Map dashboard
@@ -202,7 +200,6 @@ The bugs fixed in various areas are listed below:
 ### Publishing
 
 * PDF creation fails for the first time when Enable Versioning is selected. (8053, 8294)
-* For non-UUID content, conref images are not shown in AEM Site output. (7907)
 * White-space character is auto-added after a 'tm; tag in AEM Site output. (7964)
 * Unable to view YouTube videos in AEM Site output. (7401)
 * Filter by label fails for referenced content after the user clicks on browse all topics in the baseline tab of map dashboard. (7388) 
@@ -242,32 +239,33 @@ The bugs fixed in various areas are listed below:
 
 Adobe has identified the following known issues for XML Documentation for AEM as a Cloud Service January 2022 release. 
 
+
 ### Known issues with workaround
 
 Use the given workaround for the following known issues:
 
 *	The web authentication is not working for the Oxygen connector on Mac.
 
-**Workaround**: Use the Oxygen connector on Windows for now.
+    **Workaround**: Use the Oxygen connector on Windows for now.
 *	In the Firefox browser, the review comments cannot be imported without opening the side-by-side view.
 
-**Workaround**: Use the Chrome browser for now.
+    **Workaround**: Use the Chrome browser for now.
 *	References break on moving the images or multimedia files that have space(s) in the file names.
 
-**Workaround**: Rename the file and remove the spaces from the file name before moving them.
-*	The map dashboard is not loading properly in the latest version of the Chrome browser.
+    **Workaround**: Rename the file and remove the spaces from the file name before moving them.
+*	The map dashboard does not load intermittently in the latest version of the Chrome browser.
 
-**Workaround**: Refresh the map dashboard page
+    **Workaround**: Refresh the map dashboard page.
 
 *	DITAVAL files are not honored in article-based publishing.
 
-**Workaround**: Use conditions presets in article-based publishing.
+    **Workaround**: Use conditions presets in article-based publishing.
 *	Dragging and dropping a condition doesn’t work on DITA topics.
 
-**Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
+    **Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
 *	DITAVAL file upload on cloud server fails when AEM desktop tool is used.
 
-**Workaround**: Create a file manually on the server and copy-paste contents from the local file.
+    **Workaround**: Create a file manually on the server and copy-paste contents from the local file.
 
 ### Other known issues
 
