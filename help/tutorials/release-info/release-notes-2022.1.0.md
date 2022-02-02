@@ -242,28 +242,26 @@ Adobe has identified the following known issues for XML Documentation for AEM as
 
 Use the given workaround for the following known issues:
 
-*	The web authentication is not working for the Oxygen connector on Mac.
+* The web authentication is not working for the Oxygen connector on Mac.
+**Workaround**: Use the Oxygen connector on Windows for now.
 
-    **Workaround**: Use the Oxygen connector on Windows for now.
-*	In the Firefox browser, the review comments cannot be imported without opening the side-by-side view.
+* In the Firefox browser, the review comments cannot be imported without opening the side-by-side view.
+**Workaround**: Use the Chrome browser for now.
 
-    **Workaround**: Use the Chrome browser for now.
-*	References break on moving the images or multimedia files that have space(s) in the file names.
+* References break on moving the images or multimedia files that have space(s) in the file names.
+**Workaround**: Rename the file and remove the spaces from the file name before moving them.
 
-    **Workaround**: Rename the file and remove the spaces from the file name before moving them.
-*	The map dashboard does not load intermittently in the latest version of the Chrome browser.
+* The map dashboard does not load intermittently in the latest version of the Chrome browser.
+**Workaround**: Refresh the map dashboard page.
 
-    **Workaround**: Refresh the map dashboard page.
+* DITAVAL files are not honored in article-based publishing.
+**Workaround**: Use conditions presets in article-based publishing.
 
-*	DITAVAL files are not honored in article-based publishing.
+* Dragging and dropping a condition doesn’t work on DITA topics.
+**Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
 
-    **Workaround**: Use conditions presets in article-based publishing.
-*	Dragging and dropping a condition doesn’t work on DITA topics.
-
-    **Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
-*	DITAVAL file upload on cloud server fails when AEM desktop tool is used.
-
-    **Workaround**: Create a file manually on the server and copy-paste contents from the local file.
+* DITAVAL file upload on cloud server fails when AEM desktop tool is used.
+**Workaround**: Create a file manually on the server and copy-paste contents from the local file.
 
 ### Other known issues
 
