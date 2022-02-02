@@ -9,7 +9,7 @@ exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Checkout the Cloud Servies' Git code and switch to the branch configured in Cloud Servies pipeline corresponding to the environment you want to upgrade.
-1. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Servies Git code to 2022.1.78.
+2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Servies Git code to 2022.1.78.
 3. Commit the changes and run the Cloud Servies pipeline to upgrade to the latest version of XML Documentation.
 
 ## Compatibility matrix
