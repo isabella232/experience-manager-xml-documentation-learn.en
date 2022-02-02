@@ -265,8 +265,7 @@ Use the given workaround for the following known issues:
 
 ### Other known issues
 
-*	If Oxygen is connected with XML Documentation solution using web authentication, then logout fails.
-*	Review tasks cannot be reassigned to the users.
-*	Images cannot be edited.
-*	Issues are present in the Map collection UI like the text is distorted and **Select All** functionality is not working correctly.
-
+* If Oxygen is connected with XML Documentation solution using web authentication, then logout fails.
+* Review tasks cannot be reassigned to the users.
+* Images cannot be edited.
+* Issues are present in the Map collection UI like the text is distorted and **Select All** functionality is not working correctly.
