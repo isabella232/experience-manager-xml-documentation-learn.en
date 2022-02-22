@@ -35,6 +35,7 @@ This section lists the compatibility matrix for the software applications suppor
 ## New features and enhancements
 
 ### Native PDF publishing
+
 Support for creating a native PDF has also been added in the February release of XML Documentation solution. A new publishing engine has been introduced with the following features:
 * Create a CSS template
 * Create different page templates

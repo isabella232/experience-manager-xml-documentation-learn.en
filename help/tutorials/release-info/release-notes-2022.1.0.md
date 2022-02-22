@@ -3,7 +3,7 @@ title: Release Notes | XML Documentation for AEMaaCS January 2022 release
 description: January release of XML Documentation for AEMaaCS 
 exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
-#  January release of XML Documentation for AEMaaCS
+# January release of XML Documentation for AEMaaCS
 
 ## Upgrade to the January release
 
