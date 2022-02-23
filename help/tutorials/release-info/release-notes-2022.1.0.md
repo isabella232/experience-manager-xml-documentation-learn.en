@@ -254,18 +254,8 @@ Use the given workaround for the following known issues:
 * The map dashboard does not load intermittently in the latest version of the Chrome browser.
 **Workaround**: Refresh the map dashboard page.
 
-* DITAVAL files are not honored in article-based publishing.
-**Workaround**: Use conditions presets in article-based publishing.
-
-* Dragging and dropping a condition doesn’t work on DITA topics.
-**Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
-
-* DITAVAL file upload on cloud server fails when AEM desktop tool is used.
-**Workaround**: Create a file manually on the server and copy-paste contents from the local file.
-
 ### Other known issues
 
 * If Oxygen is connected with XML Documentation solution using web authentication, then logout fails.
 * Review tasks cannot be reassigned to the users.
-* Images cannot be edited.
 * Issues are present in the Map collection UI like the text is distorted and **Select All** functionality is not working correctly.
