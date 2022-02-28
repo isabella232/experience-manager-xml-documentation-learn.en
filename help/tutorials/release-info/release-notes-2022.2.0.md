@@ -41,8 +41,6 @@ Support for creating a native PDF has also been added in the February release of
 * Design PDF templates comprising CSS and page templates
 * Publish map and topic content in PDF format 
 
-**Note**: Currently, this is being released as a beta feature. If you wish to know more about this feature, contact your customer success manager.
-
 ### Support for knowledge base site path in Article-based publishing
 
 XML Documentation solution as Cloud Services provides the article-based publishing feature to incrementally generate an output of one or more topics or publish your content to a knowledgebase platform. With the February release, you have an additional option to choose the Knowledge Base site path to which the topic/map needs to be published. Once you select the path, the output is generated at the specified path.  
