@@ -1,16 +1,16 @@
 ---
 title: Release Notes | XML Documentation for AEMaaCS January 2022 release
-description: Latest XML Documentation releases for AEMaaCS 
+description: January release of XML Documentation for AEMaaCS 
 exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
-# Latest XML Documentation releases for AEMaaCS
+# January release of XML Documentation for AEMaaCS
 
-## Upgrade to the latest version
+## Upgrade to the January release
 
 Upgrade your current Cloud Services setup by performing the following steps:
-1. Checkout the Cloud Servies' Git code and switch to the branch configured in Cloud Servies pipeline corresponding to the environment you want to upgrade.
-2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Servies Git code to 2022.1.78.
-3. Commit the changes and run the Cloud Servies pipeline to upgrade to the latest version of XML Documentation.
+1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
+2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the January release of XML Documentation.
 
 ## Compatibility matrix
 
@@ -254,18 +254,8 @@ Use the given workaround for the following known issues:
 * The map dashboard does not load intermittently in the latest version of the Chrome browser.
 **Workaround**: Refresh the map dashboard page.
 
-* DITAVAL files are not honored in article-based publishing.
-**Workaround**: Use conditions presets in article-based publishing.
-
-* Dragging and dropping a condition doesn’t work on DITA topics.
-**Workaround**: Use the context menu of a condition in Web Editor and then select **Apply Conditions**. 
-
-* DITAVAL file upload on cloud server fails when AEM desktop tool is used.
-**Workaround**: Create a file manually on the server and copy-paste contents from the local file.
-
 ### Other known issues
 
 * If Oxygen is connected with XML Documentation solution using web authentication, then logout fails.
 * Review tasks cannot be reassigned to the users.
-* Images cannot be edited.
 * Issues are present in the Map collection UI like the text is distorted and **Select All** functionality is not working correctly.
