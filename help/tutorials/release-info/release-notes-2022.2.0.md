@@ -1,16 +1,15 @@
 ---
 title: Release Notes | XML Documentation for AEMaaCS February 2022 release
-description: Latest XML Documentation release for AEMaaCS
-exl-id: eb7ff475-bb5b-4d32-b291-024147fbfed1
+description: February release of XML Documentation for AEMaaCS  
 ---
-# Latest XML Documentation release for AEMaaCS
+# February release of XML Documentation for AEMaaCS
 
-## Upgrade to the latest release
+## Upgrade to the February release
 
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.2.114.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the latest release of XML Documentation.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the February release of XML Documentation.
 
 ## Compatibility matrix
 
