@@ -60,7 +60,7 @@ unsaved changes are opened for editing, you are prompted to save your files or c
 
 * Even on refreshing the browser, the views of the left panel and the right panel are retained.  
 
-* The files opened in the various tabs of the content editing area are also reopened. The same topic remains active. 
+* The active topic or DITA map is reopened in the content editing area.
 
 ### Publishing enhancements
 
