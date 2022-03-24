@@ -38,6 +38,8 @@ This section lists the compatibility matrix for the software applications suppor
 
 With the March release, XML Documentation solution as a Cloud Service provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
 
+Note: For upgraded system, please update the latest **ui_config.json** for Folder Profile.
+
 Use this feature to create a baseline with a specific version of the topics available on a specific date and time. Also, you get the API support to create or update a baseline with a label defined for a version of topics. 
 
 ![baseline manage tab](assets/baseline-manage.png)
