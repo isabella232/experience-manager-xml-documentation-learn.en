@@ -1,19 +1,19 @@
 ---
-title: Release Notes | XML Documentation for AEMaaCS March 2022 release
-description: Latest XML Documentation release for AEMaaCS 
+title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) March 2022 release
+description: Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) 
 ---
-# Latest XML Documentation release for AEMaaCS
+# Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS)
 
 ## Upgrade to the latest release
 
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the latest release of XML Documentation for Adobe Experience Manager as a Cloud Service.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the latest release of XML Documentation for AEMaaCS.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation for Adobe Experience Manager as a Cloud Service March 2022 release. 
+This section lists the compatibility matrix for the software applications supported by XML Documentation for AEMaaCS March 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -36,7 +36,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### New Baseline dashboard
 
-With the March release, XML Documentation for Adobe Experience Manager as a Cloud Service provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
+XML Documentation for AEMaaCS March 2022 provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
 
 Note: For upgraded system, please update the latest **ui_config.json** for Folder Profile.
 
@@ -66,7 +66,7 @@ unsaved changes are opened for editing, you are prompted to save your files or c
 
 ### Publishing enhancements
 
-The publishing process has been further improved with the latest release of XML Documentation for Adobe Experience Manager as a Cloud Service:
+The publishing process has been further improved with the latest release of XML Documentation for AEMaaCS:
 
 * Baselines have been honored for the metadata of AEM site output. You can also process the properties of a baseline version as metadata. If no baseline is defined, then the properties of the latest version are processed as metadata.
 
@@ -86,6 +86,6 @@ The bugs fixed in various areas are listed below:
 
 ## Known issue
 
-Adobe has identified the following known issue for XXML Documentation for Adobe Experience Manager as a Cloud Service March 2022 release.
+Adobe has identified the following known issue for XML Documentation for AEMaaCS March 2022 release.
 
 * Unable to reflect the updated baseline title without manual refresh.

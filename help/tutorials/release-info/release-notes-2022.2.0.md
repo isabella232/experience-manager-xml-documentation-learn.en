@@ -1,19 +1,19 @@
 ---
-title: Release Notes | XML Documentation for AEMaaCS February 2022 release
-description: February release of XML Documentation for AEMaaCS  
+title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) February 2022 release
+description: February release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS)  
 ---
-# February release of XML Documentation for AEMaaCS
+# February release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS)
 
 ## Upgrade to the February release
 
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.2.114.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the February release of XML Documentation for Adobe Experience Manager as a Cloud Service.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the February release of XML Documentation for AEMaaCS.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation for Adobe Experience Manager as a Cloud Service February 2022 release. 
+This section lists the compatibility matrix for the software applications supported by XML Documentation for AEMaaCS February 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -35,7 +35,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### Native PDF publishing
 
-Support for creating a native PDF has also been added in the February release of XML Documentation solution. A new publishing engine has been introduced with the following features:
+Support for creating a native PDF has also been added in the February release of XML Documentation for AEMaaCS. A new publishing engine has been introduced with the following features:
 * Create a CSS template
 * Create different page templates
 * Design PDF templates comprising CSS and page templates
@@ -43,7 +43,7 @@ Support for creating a native PDF has also been added in the February release of
 
 ### Support for knowledge base site path in Article-based publishing
 
-XML Documentation for Adobe Experience Manager as a Cloud Service provides the article-based publishing feature to incrementally generate an output of one or more topics or publish your content to a knowledgebase platform. With the February release, you have an additional option to choose the Knowledge Base site path to which the topic/map needs to be published. Once you select the path, the output is generated at the specified path.  
+XML Documentation for AEMaaCS provides the article-based publishing feature to incrementally generate an output of one or more topics or publish your content to a knowledgebase platform. With the February release, you have an additional option to choose the Knowledge Base site path to which the topic/map needs to be published. Once you select the path, the output is generated at the specified path.  
 
 ### Web Editor enhancements
 
@@ -51,7 +51,7 @@ Many enhancements and new features have been added in the Web Editor:
 
 * **Improved dialog on file close**
 
-XML Documentation solution prompts you to save your changes and unlock your locked files when you try to close a file opened in the Web Editor. The prompts are displayed based on the **Ask for check-in on close** and **Ask for new version on close** settings configured by your administrator.
+XML Documentation for AEMaaCS prompts you to save your changes and unlock your locked files when you try to close a file opened in the Web Editor. The prompts are displayed based on the **Ask for check-in on close** and **Ask for new version on close** settings configured by your administrator.
 
 Based on the configuration, you get the option to save the changes and create a new version of your document. Or, you can also check in the file and save the changes to the current version.  
 
