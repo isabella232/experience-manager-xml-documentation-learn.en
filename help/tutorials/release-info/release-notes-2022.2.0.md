@@ -9,11 +9,11 @@ description: February release of XML Documentation for AEMaaCS
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.2.114.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the February release of XML Documentation.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the February release of XML Documentation for Adobe Experience Manager as a Cloud Service.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services February 2022 release. 
+This section lists the compatibility matrix for the software applications supported by XML Documentation for Adobe Experience Manager as a Cloud Service February 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -43,7 +43,7 @@ Support for creating a native PDF has also been added in the February release of
 
 ### Support for knowledge base site path in Article-based publishing
 
-XML Documentation solution as Cloud Services provides the article-based publishing feature to incrementally generate an output of one or more topics or publish your content to a knowledgebase platform. With the February release, you have an additional option to choose the Knowledge Base site path to which the topic/map needs to be published. Once you select the path, the output is generated at the specified path.  
+XML Documentation for Adobe Experience Manager as a Cloud Service provides the article-based publishing feature to incrementally generate an output of one or more topics or publish your content to a knowledgebase platform. With the February release, you have an additional option to choose the Knowledge Base site path to which the topic/map needs to be published. Once you select the path, the output is generated at the specified path.  
 
 ### Web Editor enhancements
 

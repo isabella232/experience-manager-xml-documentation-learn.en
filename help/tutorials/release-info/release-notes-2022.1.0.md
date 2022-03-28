@@ -10,11 +10,11 @@ exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 Upgrade your current Cloud Services setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
-3. Commit the changes and run the Cloud Services pipeline to upgrade to the January release of XML Documentation.
+3. Commit the changes and run the Cloud Services pipeline to upgrade to the January release of XML Documentation for Adobe Experience Manager as a Cloud Service.
 
 ## Compatibility matrix
 
-This section lists the compatibility matrix for the software applications supported by XML Documentation solution Cloud Services January 2022 release. 
+This section lists the compatibility matrix for the software applications supported by XML Documentation for Adobe Experience Manager as a Cloud Service January 2022 release. 
 
 ### FrameMaker and FrameMaker Publishing Server
 
@@ -77,7 +77,7 @@ There are a lot of enhancements and new features that are introduced in the Web 
 Now you can author and publish your documents in FrameMaker. FrameMaker ships with an out-of-the-box connector to Adobe Experience Manager. In FrameMaker you get an easy-to-use interface that allows you to maintain versions of your documents in a distributed and collaborative environment. 
 
 Once you have created your content, FrameMaker allows you to publish your documents in different formats - PDF, HTML5, EPUB, and DITA. You can also perform the various file management operations like checkout, checkout with dependents, check-in, refresh, and so on. 
-To author with FrameMaker  in XML Documentation solution as Cloud Services use FrameMaker version 2020.4 and above.
+To author with FrameMaker  in XML Documentation for Adobe Experience Manager as a Cloud Service use FrameMaker version 2020.4 and above.
 
 ### New translation dashboard
 
@@ -235,7 +235,7 @@ The bugs fixed in various areas are listed below:
 
 ## Known issues
 
-Adobe has identified the following known issues for XML Documentation for AEM as a Cloud Service January 2022 release. 
+Adobe has identified the following known issues for XML Documentation for Adobe Experience Manager as a Cloud Service January 2022 release. 
 
 
 ### Known issues with workaround
