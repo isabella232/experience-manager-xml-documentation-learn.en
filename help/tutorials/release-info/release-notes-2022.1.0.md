@@ -1,13 +1,13 @@
 ---
-title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) January 2022 release
-description: January release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS)
+title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service, January 2022 release
+description: January release of XML Documentation for Adobe Experience Manager as a Cloud Service
 exl-id: b2da77fa-f17c-440b-be59-acaafcd9a57c
 ---
 # January release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) 
 
 ## Upgrade to the January release
 
-Upgrade your current Cloud Services setup by performing the following steps:
+Upgrade your current XML Documentation for Adobe Experience Manager as a Cloud Service (later referred as XML Documentation for AEMaaCS) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
 3. Commit the changes and run the Cloud Services pipeline to upgrade to the January release of XML Documentation for AEMaaCS.

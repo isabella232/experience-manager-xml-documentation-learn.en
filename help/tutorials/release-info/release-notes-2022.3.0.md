@@ -1,12 +1,12 @@
 ---
-title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) March 2022 release
-description: Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS) 
+title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service, March 2022 release
+description: Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service 
 ---
-# Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service (AEMaaCS)
+# Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service 
 
 ## Upgrade to the latest release
 
-Upgrade your current Cloud Services setup by performing the following steps:
+Upgrade your current XML Documentation for Adobe Experience Manager as a Cloud Service (later referred as XML Documentation for AEMaaCS) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
 3. Commit the changes and run the Cloud Services pipeline to upgrade to the latest release of XML Documentation for AEMaaCS.
@@ -88,4 +88,6 @@ The bugs fixed in various areas are listed below:
 
 Adobe has identified the following known issue for XML Documentation for AEMaaCS March 2022 release.
 
-* Unable to reflect the updated baseline title without manual refresh.
+* Removing labels on direct references also removes the labels from indirect references.
+
+* Unable to reflect the updated baseline title without manually refreshing the baseline panel.
