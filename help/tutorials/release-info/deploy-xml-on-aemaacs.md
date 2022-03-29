@@ -16,11 +16,11 @@ For customers who purchased XML Documentation for AEMaaCS before 03/28/2022 (to 
 
 If you are a customer who purchased XML Documentation for AEMaaCS after 03/28/2022 (to be updated), please follow these instructions to add XML Documentation to your AEM as a Cloud Service environment:
 
-- Login to cloud manager 
-- Edit the program for which you want to configure XML Documentation
-- Switch to "Solutions and Add-ons" tab
-- In the "solutions and add-ons" table, click on Assets
-- Select "XML Documentation" and press save
+* Login to cloud manager 
+* Edit the program for which you want to configure XML Documentation
+* Switch to "Solutions and Add-ons" tab
+* In the "solutions and add-ons" table, click on Assets
+* Select "XML Documentation" and press save
 
 You have successfully configured your program for automatic provisioning of XML Documentation solution.
 
