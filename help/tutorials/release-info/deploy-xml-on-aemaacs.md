@@ -24,4 +24,7 @@ If you are a customer who purchased XML Documentation for AEMaaCS after 03/28/20
 
 You have successfully configured your program for automatic provisioning of XML Documentation solution.
 
+![Configuring XML Documentation solution](assets/addon-configuration.png)
+
+
 NOTE: To intall XML Documentation on any environment under the integrated program, you must run the pipeline assoicated with the environment. No additional configuration is required in your CM git codebase for installing XML Documentation.
