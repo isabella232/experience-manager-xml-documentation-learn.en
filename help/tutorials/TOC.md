@@ -11,8 +11,8 @@ breadcrumb-title: XML Documentation Tutorials
   + [XML Documentation releases](./release-info/latest-release-info.md) 
   + Release Notes {#release-notes}
     + Cloud Services {#cloud-release-notes}
-    +  [Deployment Instructions](./release-info/deploy-xml-on-aemaacs.md)
-        +[Current release notes](./release-info/release-notes-2022.3.0.md)
+      + [Deployment Instructions](./release-info/deploy-xml-on-aemaacs.md)
+      + [Current release notes](./release-info/release-notes-2022.3.0.md)
       + [February release notes](./release-info/release-notes-2022.2.0.md)
       + [January release notes](./release-info/release-notes-2022.1.0.md)
     + On-prem/Managed Services {#on-prem-release-notes}
