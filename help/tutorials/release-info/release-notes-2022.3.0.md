@@ -6,7 +6,7 @@ description: Latest release of XML Documentation for Adobe Experience Manager as
 
 ## Upgrade to the latest release
 
-Upgrade your current XML Documentation for Adobe Experience Manager as a Cloud Service (later referred as XML Documentation for AEMaaCS) setup by performing the following steps:
+Upgrade your current XML Documentation for Adobe Experience Manager as a Cloud Service (later referred as *XML Documentation for AEMaaCS*) setup by performing the following steps:
 1. Check out the Cloud Services' Git code and switch to the branch configured in the Cloud Services pipeline corresponding to the environment you want to upgrade.
 2. Update `<dox.version>` property in `/dox/dox.installer/pom.xml` file of your Cloud Services Git code to 2022.1.78.
 3. Commit the changes and run the Cloud Services pipeline to upgrade to the latest release of XML Documentation for AEMaaCS.
@@ -36,7 +36,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 ### New Baseline dashboard
 
-XML Documentation for AEMaaCS March 2022 provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
+XML Documentation for AEMaaCS March release provides the Baseline feature integrated inside the Web Editor. You can now create baselines from the Web Editor and use them to publish or translate topics of different versions.
 
 Note: For upgraded system, please update the latest **ui_config.json** for Folder Profile.
 
@@ -48,13 +48,13 @@ You can search the files based on filenames, or file location. You can also filt
 
 ![baseline manage tab](assets/baseline-filter.png)
 
-The performance for the baseline creation process has been further improved. The process to create baselines is asynchronous, so you can continue editing other files in the Web Editor while the baseline is being created. For more details, see Create and manage baselines from the Web Editor in the User Guide. 
+The performance for the baseline creation process has been further improved. The process to create baselines is asynchronous, so you can continue editing other files in the Web Editor while the baseline is being created. For more details, see *Create and manage baselines from the Web Editor* in the User Guide. 
 
-Note: The Baseline tab on the map dashboard is hidden by default. Your administrator can configure the Baseline tab on the map dashboard.
+Note: The Baseline tab on the map dashboard is hidden by default. Your administrator can enable the Baseline tab on the map dashboard.
 
 ### Improved Web Editor refresh behavior
 
-There are a lot of enhancements in the refresh behavior of the Web Editor:
+The following  enhancements are now available with the browser refresh operation in the Web Editor:
 
 * Now you get the support to refresh the browser while you edit your 
 content in the Web Editor. If you hit the browser refresh icon while one or more files with
@@ -70,24 +70,26 @@ The publishing process has been further improved with the latest release of XML 
 
 * Baselines have been honored for the metadata of AEM site output. You can also process the properties of a baseline version as metadata. If no baseline is defined, then the properties of the latest version are processed as metadata.
 
-* The **File Name** and **DITA-OT Command Line Arguments** options have been added for HTML5 output, EPUB, and Custom output presets. Now you can specify the file name with which you want to save the output. You can also specify the additional arguments that you want DITA-OT to process while generating output.
+* The **File Name** and **DITA-OT Command Line Arguments** options have been added for HTML5, EPUB, and Custom output presets. Now you can specify the file name with which you want to save the output. You can also specify the additional arguments that you want DITA-OT to process while generating output.
 
 ## Fixed issues
 
 The bugs fixed in various areas are listed below:
 
-* Unable to add frontmatter, backmatter elements in a bookmap using the Author view of Web Editor. (7652)
-* Reference tree gets broken after removing a topic and performing a move operation. (8804) 
+* Unable to add frontmatter, backmatter elements in a bookmap using the Author view of the Web Editor. (7652)
+* Reference tree breaks after removing a topic and performing a move operation. (8804) 
 * Exception is received on viewing the content after uploading an asset. (3638)
 * Error occurs when files whose parent folder has special characters in the filename, are opened in Oxygen (using the **Edit in Oxygen** button). (8918)
 * The **Locate In Repository** option does not locate and highlight the DITA map in XML Editor. (8796)
 * Filtering is not showing the appropriate results when multiple attributes are added to the content in XML Editor. (8795)
-* Error occurs on adding a user as an administrator in the Folder Profile when the userid is numeric. (8908)
+* Error occurs on adding a user as an administrator in the folder profile when the user ID is numeric. (8908)
 
 ## Known issue
 
-Adobe has identified the following known issue for XML Documentation for AEMaaCS March 2022 release.
+Adobe has identified the following known issue in the XML Documentation for AEMaaCS March release.
 
 * Removing labels on direct references also removes the labels from indirect references.
 
 * Unable to reflect the updated baseline title without manually refreshing the baseline panel.
+
+* The version preview feature in the Version History panel does not show the preview of a selected topic.
