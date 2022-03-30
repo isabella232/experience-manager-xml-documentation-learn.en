@@ -84,7 +84,7 @@ The bugs fixed in various areas are listed below:
 * Filtering is not showing the appropriate results when multiple attributes are added to the content in XML Editor. (8795)
 * Error occurs on adding a user as an administrator in the folder profile when the user ID is numeric. (8908)
 
-## Known issue
+## Known issues
 
 Adobe has identified the following known issue in the XML Documentation for AEMaaCS March release.
 
