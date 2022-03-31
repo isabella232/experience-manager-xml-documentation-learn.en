@@ -14,7 +14,7 @@ For customers who purchased XML Documentation for AEMaaCS before 03/29/2022, ple
 
 ## Deployment Via Cloud Manager
 
-If you are a customer who purchased XML Documentation for AEMaaCS after 03/28/2022 (to be updated), please follow these instructions to add XML Documentation to your AEM as a Cloud Service environment:
+If you are a customer who purchased XML Documentation for AEMaaCS on or after 03/29/2022, please follow these instructions to add XML Documentation to your AEM as a Cloud Service environment:
 
 * Login to cloud manager 
 * Edit the program for which you want to configure XML Documentation
