@@ -11,8 +11,9 @@ breadcrumb-title: XML Documentation Tutorials
   + [XML Documentation releases](./release-info/latest-release-info.md) 
   + Release Notes {#release-notes}
     + Cloud Services {#cloud-release-notes}
-      <!-- + [Deployment Instructions](./release-info/deploy-xml-on-aemaacs.md)-->
-      + [Current release notes](./release-info/release-notes-2022.2.0.md)
+      + [Deployment Instructions](./release-info/deploy-xml-on-aemaacs.md)
+      + [Current release notes](./release-info/release-notes-2022.3.0.md)
+      + [February release notes](./release-info/release-notes-2022.2.0.md)
       + [January release notes](./release-info/release-notes-2022.1.0.md)
     + On-prem/Managed Services {#on-prem-release-notes}
       + [4.0 Release Notes](https://helpx.adobe.com/xml-documentation-for-experience-manager/release-note/release-notes-xml-documentation-solution-4-0.html)
