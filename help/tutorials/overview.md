@@ -13,14 +13,14 @@ With XML Documentation solution, enterprises can deliver seamless and personaliz
 
 ## What's New
 
-* **[Setup custom DITA-OT](configuring/setup-a-custom-dita-ot.md)**
-    *Learn how to setup custom DITA-OT in XML Documentation for Adobe Experience Manager.*
+* **[XML Documentation Getting Started Course](../courses/course-1/overview.md)**
 
-* **[Exclude paragraphs from translation](translation/exclude-paragraphs-from-translation.md)**
-    *Learn how to exclude paragraphs within a topic from translation.*
+    *Learn how to create, organize, author and publish content with XML Documentation for Adobe Experience Manager.*
 
-* **[Configure additional special characters](web-editor/configure-additional-special-characters.md)**
-    *Learn how to configure additional special characters in Web Editor toolbar.*
+* **[Output Generation with XML Documentation](../courses/course-2/overview.md)**
+
+    *Learn how to generate output using XML Documentation for Adobe Experience Manager. Learn about various features available for output generation - reports, baselines, conditions, troubleshooting, bulk publishing and activation.*
+
 
 <!--
 
