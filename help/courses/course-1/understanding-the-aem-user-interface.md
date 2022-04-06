@@ -30,6 +30,8 @@ The default view displays your [!UICONTROL Favorites]. You can further customize
 
 ## The Assets UI
 
+In the [!UICONTROL Assets] interface, you can view
+
 ### Viewing content in the Assets UI
 
 You can perform additional actions with your content. One of these options is to view your file in the Assets UI.

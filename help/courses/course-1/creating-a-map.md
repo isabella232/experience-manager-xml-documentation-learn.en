@@ -1,13 +1,13 @@
 ---
-title: Creating a map in XML Documentation
-description: Creating a map in XML Documentation for Adobe Experience Manager
+title: Create a map in XML Documentation
+description: Learn how to create a map in XML Documentation for Experience Manager
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 ---
 # Create a Map
 
-A map is an organizational tool that allows you to add and organize information in a hierarchical structure. Here, you can learn how to create a map and organize content within it.
+A map is an organizational tool that lets you add and organize information in a hierarchical structure. This tasks shows you how to create a map and organize content in the map.
 
-You can download example dita files from here:
+You can download example DITA files from here:
 
 * [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
 * [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
@@ -16,14 +16,14 @@ You can download example dita files from here:
 
 ## Upload map components
 
-If desired, you can upload some local sample files into AEM for a more complete set of materials.
+If desired, you can upload local sample files into AEM for a more complete set of materials.
 
 1. Drag and drop any local files into AEM to upload them.
 1. Repeat as needed for any files, including images and topics.
 
 ## Create a map
 
-1. Select the ellipsis icon on your main folder to open the Options menu.
+1. To open the [!UICONTROL Options] menu, select the ellipsis icon on your main folder .
 
    ![Ellipsis icon](images/lesson-8/ellipses-9.png)
 
@@ -53,7 +53,7 @@ If desired, you can upload some local sample files into AEM for a more complete 
 
 1. Add a topic to the map by dragging and dropping it from the Repository into the map in the editor.
 
-   The line indicator will show you where your topic will be placed.
+   The line indicator shows you where your topic is placed.
 
 1. Continue to add topics as needed.
 
@@ -75,8 +75,8 @@ Your content opens in [!UICONTROL Preview].
 
 You can edit the hierarchy of topics inside the map.
 
-1. Click a topic&#39;s icon to select it.
-2. Use the Move Right and Move Left icons to demote and promote elements respectively.
+1. Click a topic's icon to select it.
+2. Use the arrows to demote and promote elements respectively.
 
    ![Repository icon](images/lesson-8/left-right.png)
 
@@ -84,7 +84,7 @@ You can edit the hierarchy of topics inside the map.
 
 Now that the map is complete, you can save your work as a new version and record your changes.
 
-1. Select the **Save as New Version** icon.
+1. Select the **[!UICONTROL Save as New Version]** icon.
 
    ![Save as New Version icon](images/common/save-as-new-version.png)
 

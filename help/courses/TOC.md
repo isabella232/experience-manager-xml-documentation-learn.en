@@ -4,11 +4,11 @@ user-guide-description: A collection of videos for XML Documentation for Adobe E
 breadcrumb-title: XML Documentation Videos
 ---
   
-# Tutorials for XML Documentation for Experience Manager {#videos}
+# XML Documentation for Experience Manager {#videos}
 
-+ [Tutorials for XML Documentation for AEM](overview.md)
++ [XML Documentation for AEM](overview.md)
 + Get started with XML Documentation {#getting-started}
-  + [Overview](./course-1/overview.md)
+  + [Course overview](./course-1/overview.md)
   + [Understand the AEM user interface](./course-1/understanding-the-aem-user-interface.md)
   + [Create and structure content](./course-1/creating-and-structuring-content.md)
   + [Work with images](./course-1/working-with-images.md)

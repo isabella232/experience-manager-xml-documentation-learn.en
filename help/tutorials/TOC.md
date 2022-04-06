@@ -1,14 +1,14 @@
 ---
-user-guide-title: XML Documentation for Adobe Experience Manager Tutorials
+user-guide-title: Tutorials for XML Documentation for AEM
 user-guide-description: A collection of tutorials for XML Documentation for Adobe Experience Manager.
 breadcrumb-title: XML Documentation Tutorials
 ---
   
-# XML Documentation for Adobe Experience Manager Tutorials {#tutorials}
+# Tutorials for XML Documentation for Experience Manager {#tutorials}
 
-+ [Overview](overview.md)
++ [Tutorials for XML Documentation for AEM](overview.md)
 + Content Architecture and Use Cases {#content-arch}
-  + [Create and use conditions and generate conditional output](./content-architecture/create-and-use-conditions.md)
+  + [Work with conditional output](./content-architecture/create-and-use-conditions.md)
   + [Create global keys](./content-architecture/create-global-keys.md)
 + Configuring {#configuring}
   + [Setup a custom DITA-OT](./configuring/setup-a-custom-dita-ot.md)

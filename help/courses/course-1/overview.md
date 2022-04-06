@@ -1,9 +1,9 @@
 ---
-title: Getting started with XML Documentation
+title: Overview of Getting started with XML Documentation course
 description: Getting started with XML Documentation for Adobe Experience Manager
 exl-id: 6c53602f-4971-407e-9fd0-23c3a77e0118
 ---
-# Overview
+# Course overview
 
 In this course, you will learn to do the following:
 
