@@ -55,7 +55,7 @@ To create/configure a PDF output preset:
    *  Double-click a predefined PDF output preset.
    *  Click the + plus icon against Presets to add a new output preset of **Type: PDF**. 
 3. To configure settings of an existing PDF preset:
-4. Click the **Options** ![options](assets/options.svg)  icon next to the desired output Preset and select **Edit**. 
+3. Click the **Options** ![options](assets/options.svg)  icon next to the desired output Preset and select **Edit**. 
 
 You can use the following settings in the **General**, **Layout**, **Security**, and **Advanced** tabs to configure a PDF output preset: 
 
