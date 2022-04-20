@@ -89,3 +89,9 @@ The bugs fixed in various areas are listed below:
 * Authorization mechanism executes two queries instead of one, in some specialized scenarios. (9221)
 * Publishing the AEM site output fails on using custom DTD. (9243)
 * Use-by-reference footnote doesn't scroll to the footnote section in AEM site output. (9234) 
+
+## Known issues
+
+Adobe has identified the following known issue in the XML Documentation for AEMaaCS April release.
+
+* The Web Editor doesn't report an error when two or more baselines are created with the same name but have space or case differences. For example, "adobe" and "Adobe " or "Adobe".

@@ -87,7 +87,7 @@ The bugs fixed in various areas are listed below:
 
 ## Known issues
 
-Adobe has identified the following known issue in the XML Documentation for AEMaaCS March release.
+Adobe has identified the following known issues in the XML Documentation for AEMaaCS March release.
 
 * Removing labels on direct references also removes the labels from indirect references.
 
