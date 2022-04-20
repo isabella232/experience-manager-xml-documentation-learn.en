@@ -15,7 +15,7 @@ For more information on generating a PDF using the DITA-OT method, see [Generate
 
 * **FrameMaker Publishing Server (FMPS)**
 
-Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create/edit an output preset, see  [Output Presets](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/output-presets.html?lang=en)
+Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create/edit an output preset, see  [Output Presets](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/output-presets.html?lang=en).
 
 For more information on configuring FMPS, see [generate output from FrameMaker documents](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML-master-map/user-guide/fm-output-generatation.html#id1645H8040HD). 
 
@@ -27,6 +27,7 @@ Use this method to generate a feature-rich PDF output based on W3C CSS3 and CSS 
 
 
 ## Using the Native PDF publishing {#native-pdf-publishing}
+
 When authoring content, it becomes essential to ensure that the content is legible for viewing, editing, and printing. Using standards such as the W3C CSS3 for content styling and CSS paged media standards for page definition properties such as size, margins, orientation, page breaks, headers, footers, and page numbering, you can set the view and layout for your PDF document ensuring consistency and usability. The Native PDF publishing feature uses these standards to generate a PDF. 
 
 With the native PDF publishing, you can use predefined templates to ensure consistency in content layout and structure, apply stylesheets to alter the look-and-feel of your output, optimize PDF, set printer marks, allow screen reader support, set PDF conformance, embed fonts, and much more.  
@@ -50,13 +51,10 @@ To create/configure a PDF output preset:
 1. In the Output tab, click **Presets** in the left sidebar. The Preset panel opens. 
 
 ![preset panel](assets/preset-panel.png)
-
 2. In the output Presets panel, do one of the following:
   *  Double-click a predefined PDF output preset.
-  *  Click the + plus icon against Presets to add a new output preset of Type: PDF 
-
+  *  Click the + plus icon against Presets to add a new output preset of **Type: PDF**. 
 3. To configure settings of an existing PDF preset:
-
 4. Click the **Options** ![options](assets/options.svg)  icon next to the desired output Preset and select **Edit**. 
 
 You can use the following settings in the **General**, **Layout**, **Security**, and **Advanced** tabs to configure a PDF output preset: 
@@ -70,7 +68,7 @@ Use to specify basic output settings, such as specify output path, PDF file name
 |**Output Path**|   The path within the AEM repository where the PDF output is stored. Ensure that the output path is not located inside the project folder. If left blank, the output gets generated in the default DITA map output location.|
 |  **PDF file**  | Specify a file name to save the PDF. By default, the PDF file name adds the DITA map name along with the preset name. For example, ditamap is ‘TestMap’ and the name of the preset is ‘preset1’ then the default name of the pdf will be ‘TestMap_preset1.pdf’.  |
 | **Apply Conditions using** |   For conditionalized content, choose from the below options to generate a PDF output based on those conditions: <br>* **None Applied** Select this option if you do not want to apply any condition on the map and sourced content. <br> * **Ditaval File** Select a DITAVAL file to generate conditionalized content. To select, click against Condition Preset and locate the file. <br> * **Condition Preset** Select a condition preset from the drop-down to apply a condition while publishing the output. This option is visible if you have added a condition for the DITA map file. The conditional settings are available in the Condition Presets tab of the DITA map console. To know more about condition preset, see [Use condition presets](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML/user-guide/generate-output-use-condition-presets.html). <br>|
-|  **Use Baseline**  | If you have created a Baseline for the selected DITA map, select this option to specify the version that you want to publish. See Work with Baseline for more details.   |
+|  **Use Baseline**  | If you have created a Baseline for the selected DITA map, select this option to specify the version that you want to publish. See [Work with Baseline](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML/user-guide/generate-output-use-baseline-for-publishing.html#id1825FI0J0PF) for more details.   |
  
 **Layout**
 
@@ -116,7 +114,7 @@ Use the following options to specify advanced settings to merge PDFs, use compre
 
 2. In the Repository panel, open the DITA map file in **Map View**.  
 
-3. In the Output tab, click **Presets** to view the Preset panel. 
+3. In the **Output** tab, click **Presets** to view the Preset panel. 
 
 4. In the output **Presets** panel, do one of the following:  
    * Double-click a predefined PDF output preset to view it.
