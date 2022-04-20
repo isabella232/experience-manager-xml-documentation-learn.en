@@ -45,9 +45,9 @@ A DITA content key reference inserts a part of content from one topic into anoth
 
 Now the key references are resolved on the basis of the root map set in the following order of priority: 
 
-1.	User Preferences 
-2.	Map View panel 
-3.	Folder Profile
+1. User Preferences
+2. Map View panel 
+3. Folder Profile
 
 For more details, see *Resolve key references* section in the User guide.
 
@@ -62,7 +62,8 @@ Now you can easily change the document state of selected topics within a DITA ma
 ![selected topic properties](assets/map-view-properties.png)
 
 ### Version information displayed in the Preview mode
-The Web Editor helps you in managing your versions. Now you can also see the version of the active topic or DITA map in the top right corner of the topic’s file tab in the Preview mode of a topic.
+
+The Web Editor helps you in managing your versions. Now you can also see the version of the active topic or DITA map in the top right corner of the topic's file tab in the Preview mode of a topic.
 
 ![preview version](assets/preview-version.png)
 
