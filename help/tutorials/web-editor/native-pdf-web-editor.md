@@ -17,7 +17,7 @@ For more information on generating a PDF using the DITA-OT method, see [Generate
 
 Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create/edit an output preset, see  [Output Presets](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/output-presets.html?lang=en).
 
-For more information on configuring FMPS, see [generate output from FrameMaker documents](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML-master-map/user-guide/fm-output-generatation.html#id1645H8040HD). 
+For more information on configuring FMPS, see [Generate output from FrameMaker documents](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML-master-map/user-guide/fm-output-generatation.html#id1645H8040HD). 
 
 * **Native PDF publishing** 
 
@@ -48,7 +48,9 @@ From the PDF output preset you can select a template, apply conditions, set rest
 
 To create/configure a PDF output preset: 
 
-1. In the Output tab, click **Presets** in the left sidebar. The Preset panel opens. 
+1. In the Output tab, click **Presets** in the left sidebar. 
+
+The Preset panel opens. 
 ![preset panel](assets/preset-panel.png)
 2. In the output **Presets** panel, do one of the following:  
    * Double-click a predefined PDF output preset to view it.
@@ -86,7 +88,7 @@ Protect your PDF by adding restrictions to open and read the file. Use the below
 | Setting  | Description|
 | --- | --- |
 |**Set password to open the document**|   Select to add a secure password to view your PDF file. Specify a password in the **User password** field. Users can open the PDF only by entering the password provided in this field.  |
-|  **Set document restrictions**  | Select to restrict how users can interact with your PDF. Specify a password in the **Owner Password** field for the below restriction settings to work.  <br>* **Printing** Select to allow a user to print the PDF. <br> * **Degraded printing** Select to allow a user to print the PDF in a lower resolution.  <br> * **Content copying** Select to allow a user to copy contents from the PDF.   <br> * **Annotations** Select to allow a user to add a note or comment in the PDF.  <br> * **Content changes** Select to allow a user to alter the contents in the PDF.  <br> * **Content copying for accessibility** Select to allow screen readers to read and navigate content in PDF.  <br> * **Document assembly** Select to allow users to insert pages in the PDF.  <br> **Note**: The users need to enter the owner password to change any restrictions from the File > Properties in Adobe Acrobat. |  
+|  **Set the document restrictions**  | Select to restrict how users can interact with your PDF. Specify a password in the **Owner Password** field for the below restriction settings to work.  <br>* **Printing** Select to allow a user to print the PDF. <br> * **Draft quality printing** Select to allow a user to print the PDF in a lower resolution.  <br> * **Content copying** Select to allow a user to copy contents from the PDF.   <br> * **Annotations** Select to allow a user to add a note or comment in the PDF.  <br> * **Content modifications** Select to allow a user to alter the contents in the PDF.  <br> * **Content copying for accessibility** Select to allow screen readers to read and navigate content in PDF.  <br> * **Document assembly** Select to allow users to insert pages in the PDF.  <br> **Note**: The users need to enter the owner password to change any restrictions from the File > Properties in Adobe Acrobat. |  
 
 **Advanced**
 
@@ -94,35 +96,32 @@ Use the following options to specify advanced settings to merge PDFs, use compre
 
 | Setting  | Description|
 | --- | --- |
-|**Create an accessible (tagged) PDF file**|   Select this option to generate a PDF with tags. A tagged PDF makes it easier for screen readers to read and navigate content, hyperlinks, bookmarks, and so on. For example, if a table is tagged, the screen reader will know that it is reading the table and not just lines and text.  |
-|  **Merge PDFs included in the table of contents** | Select this option to merge existing PDFs into your output by adding them to your Table of Contents. The PDFs will be inserted at the location represented in the TOC and the pages will be incremented accordingly. |  
+|**Create accessible (tagged) PDF**|   Select this option to generate a PDF with tags. A tagged PDF makes it easier for screen readers to read and navigate content, hyperlinks, bookmarks, and so on. For example, if a table is tagged, the screen reader will know that it is reading the table and not just lines and text.  |
+|  **Merge PDFs included in the TOC** | Select this option to merge existing PDFs into your output by adding them to your Table of Contents. The PDFs will be inserted at the location represented in the TOC and the pages will be incremented accordingly. |  
 |  **Embed used fonts** | Select this option when using fonts that may not be installed on end user’s machine. With this option selected, the used fonts get embedded in the PDF, ensuring the user can see the PDF as intended even if the fonts are not installed on their machine. <br> **Note**: A font can be embedded only if it contains a setting by the font vendor that permits it to be embedded. Ensure you have the required setting or license before embedding a font.  | 
 |  **Use automatic hyphenation** | With automatic hyphenation enabled, words at the end of lines are broken in grammatically correct places with a hyphen. |  
 |  **Enable JavaScript** | Enable this option if you have a JavaScript code that you want to use to transform your content dynamically before generating a PDF. |  
-|  **Embed media files** | Select this option to include any audio, video, and any interactive content to the PDF. |  
-|  **Use full compression to optimize PDF size** | Select this option if you want to compress/reduce the size of a large PDF. Remember, compressing the PDF may reduce the file quality. | 
-|  **Use image compression to optimize PDF size** | Select this option if you want to compress/reduce the size of images used, in your PDF. Remember, compressing an image may reduce the image quality.  | 
+|  **Embed multimedia files** | Select this option to include any audio, video, and any interactive content to the PDF. |  
+|  **Use full compression to optimize the PDF size** | Select this option if you want to compress/reduce the size of a large PDF. Remember, compressing the PDF may reduce the file quality. | 
+|  **Use image compression to optimize the PDF size** | Select this option if you want to compress/reduce the size of images used, in your PDF. Remember, compressing an image may reduce the image quality.  | 
 |  **Use custom resolution (pixels per inch)** | It is the page display resolution at pixels per inch. Enter a preferred value in the field that appears when this option is selected. Set a higher value to fit more content in an inch, and vice versa, if you set a lower value. | 
-|  **Show watermark** | Select this option to render MathML equations present in your content. The equations will be ignored otherwise. | 
+|  **Show Watermark** | Select this option to render MathML equations present in your content. The equations will be ignored otherwise. | 
 |  **Enable MathML equations** | Select this option to render MathML equations present in your content. The equations will be ignored otherwise by default.  | 
-|  **PDF compliance** | It is the standard to which you intend to save your PDF to ensure it is compliant. Select from the dropdown to choose from the list of available PDF standards. For more details about the supported standards, see [About PDF standards](https://helpx.adobe.com/acrobat/using/pdf-conversion-settings.html#about_pdf_x_pdf_e_and_pdf_a_standards). | 
+|  **PDF conformance** | It is the standard to which you intend to save your PDF to ensure it is compliant. Select from the dropdown to choose from the list of available PDF standards. For more details about the supported standards, see [About PDF standards](https://helpx.adobe.com/acrobat/using/pdf-conversion-settings.html#about_pdf_x_pdf_e_and_pdf_a_standards). | 
 
 ## Generate a PDF output  
 
 Once you have configured the output preset you can generate output from the Presets panel, using the **Generate Preset** feature.  
 
-1. Under the **Author** tab, select the **Repository** View.  This opens the Repository panel.  
+1. Under the **Author** tab, select the **Repository** View.  
+This opens the Repository panel.  
 
 2. In the Repository panel, open the DITA map file in **Map View**.  
 
 3. In the **Output** tab, click **Presets** to view the Preset panel. 
+To create/configure an output preset, see [Create a PDF output preset](#create-output-preset). 
 
-4. In the output **Presets** panel, do one of the following:  
-   * Double-click a predefined PDF output preset to view it.
-   * Click the + icon against **Presets** to add a new output preset of **Type: PDF**.  
-5. To configure settings of an existing PDF preset:   
-   * Click the  **Options** ![options](assets/options.svg) icon next to the desired output Preset and select **Edit**. See [Configure a PDF output preset](#create-output-preset) to configure the output settings.
-6. To save your settings, click the **Save All** ![save all](assets/SaveFloppy_icon.svg) icon in the upper-left corner of the standard toolbar in the Output view.    
+4. To save your settings, click the **Save All** ![save all](assets/SaveFloppy_icon.svg) icon in the upper-left corner of the standard toolbar in the Output view.    
 7. Click the **Generate Preset** ![generate preset](assets/generate-output.svg) icon on the top bar.
 You can view a progress bar next to the selected output preset in the Output Presets panel. 
 8. Once the output generation is complete, click  **View Output** ![view output](assets/view-output.svg) icon on the top bar to view the output.  
