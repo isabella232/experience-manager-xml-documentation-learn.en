@@ -72,7 +72,6 @@ The bugs fixed in various areas are listed below:
 
 * New labels are not reflected automatically in the Add/Remove label dropdown, instead, a Baseline refresh is required. (9249)
 * Unable to edit the baseline title if a baseline is created by label criteria. (9171) 
-* Output purging feature fails if the user has a large number of leftover output history nodes.(8568)
 * Publishing job using a baseline gets stuck in "waiting" state if the baseline status changes to "failed". (9194)
 * Removing labels on direct references also removes the labels from indirect references. (9257)
 * Searching as you type causes unwanted search requests in the Repository view. (9307)
