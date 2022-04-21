@@ -27,7 +27,7 @@ This section lists the compatibility matrix for the software applications suppor
 
 | XML Documentation Cloud Release | Oxygen Connector Windows | Oxygen Connector Mac | 
 | --- | --- | --- |
-| 2022.4.0 | 2.4.0 | 2.4.0 | 
+| 2022.4.0 | 2.5.6 | 2.5.6 | 
 |  |  |  |  
 
 *Baseline and conditions created in AEM are supported in FMPS releases starting from 2020.2.
