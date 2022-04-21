@@ -1,9 +1,8 @@
 ---
 title: Native PDF | PDF output generation 
 description: Generate PDF output in XML Documentation for Adobe Experience Manager as a Cloud Service
-exl-id: 885edbb5-dfe4-4bdc-bb66-0df64addb094
 ---
-# PDF output generation 
+# Generate a PDF output
 
 With the XML Documentation solution, you can generate PDFs of individual topics or an entire map file. You can publish your content in a PDF format using one of the three methods below: 
 

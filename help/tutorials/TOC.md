@@ -27,6 +27,6 @@ breadcrumb-title: XML Documentation Tutorials
 + Translation {#translation}
   + [Exclude paragraphs from translation](./translation/exclude-paragraphs-from-translation.md)
 + Web Editor {#web-editor}
-  + [PDF output generation](./web-editor/native-pdf-web-editor.md) 
+  + [Generate a PDF output](./web-editor/native-pdf-web-editor.md) 
   + [Configure additional special characters](./web-editor/configure-additional-special-characters.md) 
 + Versioning {#versioning}
