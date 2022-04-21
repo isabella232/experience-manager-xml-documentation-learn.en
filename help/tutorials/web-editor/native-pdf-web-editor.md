@@ -53,7 +53,6 @@ To create/configure a PDF output preset:
 The Preset panel opens. 
 
 ![preset panel](assets/preset-panel.png)
-
 2. In the output **Presets** panel, do one of the following:  
    * Double-click a predefined PDF output preset to view it.
    * Click the + icon against **Presets** to add a new output preset of **Type: PDF**  
