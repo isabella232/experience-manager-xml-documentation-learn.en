@@ -49,16 +49,13 @@ From the PDF output preset you can select a template, apply conditions, set rest
 To create/configure a PDF output preset: 
 
 1. In the Output tab, click **Presets** in the left sidebar. 
-
 The Preset panel opens. 
-
 ![preset panel](assets/preset-panel.png)
 2. In the output **Presets** panel, do one of the following:  
    * Double-click a predefined PDF output preset to view it.
    * Click the + icon against **Presets** to add a new output preset of **Type: PDF**  
 3. To configure settings of an existing PDF preset:   
    * Click the  **Options** ![options](assets/options.svg) icon next to the desired output Preset and select **Edit**. 
-
 You can use the following settings in the **General**, **Layout**, **Security**, and **Advanced** tabs to configure a PDF output preset: 
 
 **General**
@@ -121,11 +118,10 @@ This opens the Repository panel.
 
 3. In the **Output** tab, click **Presets** to view the Preset panel. 
 To create/configure an output preset, see [Create a PDF output preset](#create-output-preset). 
-
 4. To save your settings, click the **Save All** ![save all](assets/SaveFloppy_icon.svg) icon in the upper-left corner of the standard toolbar in the Output view.    
-7. Click the **Generate Preset** ![generate preset](assets/generate-output.svg) icon on the top bar.
+5. Click the **Generate Preset** ![generate preset](assets/generate-output.svg) icon on the top bar.
 You can view a progress bar next to the selected output preset in the Output Presets panel. 
-8. Once the output generation is complete, click  **View Output** ![view output](assets/view-output.svg) icon on the top bar to view the output.  
+6. Once the output generation is complete, click  **View Output** ![view output](assets/view-output.svg) icon on the top bar to view the output.  
 A **Success** dialog box is visible at the lower-right corner of the screen.
 If an output is not successful, the below error message is displayed.
 ![error log](assets/error-log.png)
