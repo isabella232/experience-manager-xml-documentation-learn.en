@@ -76,7 +76,7 @@ Use to set page layouts and specify page view options for PDF output such as Pag
 | Setting  | Description|
 | --- | --- |
 |**PDF Template**|   PDF templates provide a clear structure for defining page layouts and apply various settings to your PDF output. Select from the PDF template drop-down options to choose your preferred template.  |
-|  **Page Display**  | Use the Page Display for page view that shows how the PDF is displayed when it is opened. Select from the Page Display drop-down options to choose a preferred view. <br>* **Default Displays** as per the default setting of the PDF viewer on a user’s machine.  <br> * **Single Page View** Displays one page at a time.   <br> * **Single Page Scrolling** Displays a single page in a continuous vertical column.  <br> * **Two Page View** Displays two-page spread side-by-side at a time. .<br> * **Two Page Scrolling** Displays two-page spread side-by-side with continuous scrolling. |  
+|  **Page Display**  | Use the Page Display for page view that shows how the PDF is displayed when it is opened. Select from the Page Display drop-down options to choose a preferred view. <br>* **Default**  Displays as per the default setting of the PDF viewer on a user’s machine.  <br> * **Single Page View** Displays one page at a time.   <br> * **Single Page Scrolling** Displays a single page in a continuous vertical column.  <br> * **Two Page View** Displays two-page spread side-by-side at a time. .<br> * **Two Page Scrolling** Displays two-page spread side-by-side with continuous scrolling. |  
 |  **Zoom**  | Select to resize the page view that shows how the PDF is displayed when it is opened.  <br>* **Default** Displays as per the default setting of the PDF viewer on a user’s machine    <br> * **100%** Makes the page appear in its actual size.     <br> * **Fit Page** Makes the page width and height to fit within the document pane.   .<br> * **Fit Page Width** Makes the width of the page fill the width of the document pane.  <br> * **Fit Page Height** Makes the height of the page fill the height of the document pane.  | 
 
 **Security**
@@ -85,7 +85,7 @@ Protect your PDF by adding restrictions to open and read the file. Use the below
 
 | Setting  | Description|
 | --- | --- |
-|**Set password to open the document**|   Select to add a secure password to view your PDF file. Specify a password in the **Set document restrictions** field. Users can open the PDF only by entering the password provided in this field. |
+|**Set password to open the document**|   Select to add a secure password to view your PDF file. Specify a password in the **User password** field. Users can open the PDF only by entering the password provided in this field.  |
 |  **Set document restrictions**  | Select to restrict how users can interact with your PDF. Specify a password in the **Owner Password** field for the below restriction settings to work.  <br>* **Printing** Select to allow a user to print the PDF. <br> * **Degraded printing** Select to allow a user to print the PDF in a lower resolution.  <br> * **Content copying** Select to allow a user to copy contents from the PDF.   <br> * **Annotations** Select to allow a user to add a note or comment in the PDF.  <br> * **Content changes** Select to allow a user to alter the contents in the PDF.  <br> * **Content copying for accessibility** Select to allow screen readers to read and navigate content in PDF.  <br> * **Document assembly** Select to allow users to insert pages in the PDF.  <br> **Note**: The users need to enter the owner password to change any restrictions from the File > Properties in Adobe Acrobat. |  
 
 **Advanced**
@@ -109,6 +109,8 @@ Use the following options to specify advanced settings to merge PDFs, use compre
 
 ## Generate a PDF output  
 
+Once you have configured the output preset you can generate output from the Presets panel, using the **Generate Preset** feature.  
+
 1. Under the **Author** tab, select the **Repository** View.  This opens the Repository panel.  
 
 2. In the Repository panel, open the DITA map file in **Map View**.  
@@ -117,7 +119,7 @@ Use the following options to specify advanced settings to merge PDFs, use compre
 
 4. In the output **Presets** panel, do one of the following:  
    * Double-click a predefined PDF output preset to view it.
-   * Click the + icon against **Presets** to add a new output preset of **Type: PDF**  
+   * Click the + icon against **Presets** to add a new output preset of **Type: PDF**.  
 5. To configure settings of an existing PDF preset:   
    * Click the  **Options** ![options](assets/options.svg) icon next to the desired output Preset and select **Edit**. See [Configure a PDF output preset](#create-output-preset) to configure the output settings.
 6. To save your settings, click the **Save All** ![save all](assets/SaveFloppy_icon.svg) icon in the upper-left corner of the standard toolbar in the Output view.    
@@ -128,4 +130,4 @@ A **Success** dialog box is visible at the lower-right corner of the screen.
 If an output is not successful, the below error message is displayed.
 ![error log](assets/error-log.png)
 
-To view the error log, click **Dismiss**, hover over the selected preset tab, and click  **Options** > **View Log**. 
+To view the error log, click **Dismiss**, hover over the selected preset tab, and click ![options](assets/options.svg) **Options** > **View Log**. 
