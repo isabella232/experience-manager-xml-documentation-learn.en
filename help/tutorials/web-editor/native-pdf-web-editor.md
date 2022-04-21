@@ -9,13 +9,13 @@ With the XML Documentation solution, you can generate PDFs of individual topics 
 
 * **DITA-OT**  
 
-Use this method to generate a PDF output for a map from the map dashboard. You can set publishing properties before generating the PDF by creating an output preset for the map that is open in the map dashboard. To create/edit an output preset, see  [Output Presets](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/output-presets.html?lang=en). 
+Use this method to generate a PDF output for a map from the map dashboard. You can set publishing properties before generating the PDF by creating an output preset for the map that is open in the map dashboard. To create or edit an output preset, the *Understanding the output presets* section in the [XML Documentation for AEM as a Cloud Service User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/cs-mar-22/XML-Documentation-for-Adobe-Experience-Manager_CS_User-Guide_EN.pdf). 
 
 For more information on generating a PDF using the DITA-OT method, see [Generate PDF using DITA-OT](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML-master-map/user-guide/generate-output-pdf.html). 
 
 * **FrameMaker Publishing Server (FMPS)**
 
-Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create/edit an output preset, see  [Output Presets](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/output-presets.html?lang=en).
+Use this method to generate a PDF output from not only the DITA content, but also FrameMaker documents (.book and .fm) available in your AEM repository. The PDF can be created by configuring an output preset and published using FrameMaker Publishing Server (FMPS). You can design and configure the look-and-feel of your output for PDF and other formats and store the same in a setting file (.sts). This setting file is then used by FMPS to generate output for a DITA map or .book file. To create or edit an output preset, see the  *Understanding the output presets* section in the [XML Documentation for AEM as a Cloud Service User Guide](https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/cs-mar-22/XML-Documentation-for-Adobe-Experience-Manager_CS_User-Guide_EN.pdf).
 
 For more information on configuring FMPS, see [Generate output from FrameMaker documents](https://help.adobe.com/en_US/xml-documentation-for-adobe-experience-manager/DXML-master-map/user-guide/fm-output-generatation.html#id1645H8040HD). 
 
@@ -36,7 +36,7 @@ Generating a PDF using Native PDF publishing has two aspects:
 
 * Use of templates to apply styling to content, set page layouts, and various settings to fine-tune your PDF. Authors can choose to use/modify the sample templates provided or create custom templates and set advanced configuration options used by publishers and developers. 
 
-* Create/configure a PDF output preset to control the PDF settings. Once you create a PDF output preset, you can generate the PDF.  
+* Create or configure a PDF output preset to control the PDF settings. Once you create a PDF output preset, you can generate the PDF.  
 
 For more information, see [Generate a PDF output](#generate-pdf-output).
 
@@ -46,7 +46,7 @@ The first step in generating a PDF output is to create a PDF output preset, whic
 
 From the PDF output preset you can select a template, apply conditions, set restrictions to control how a user interacts with your PDF, configure advanced settings like compression, conformance, and more.  
 
-To create/configure a PDF output preset: 
+To create or configure a PDF output preset: 
 
 1. In the Output tab, click **Presets** in the left sidebar. 
 The Preset panel opens. 
@@ -117,7 +117,7 @@ This opens the Repository panel.
 2. In the Repository panel, open the DITA map file in **Map View**.  
 
 3. In the **Output** tab, click **Presets** to view the Preset panel. 
-To create/configure an output preset, see [Create a PDF output preset](#create-output-preset). 
+To create or configure an output preset, see [Create a PDF output preset](#create-output-preset). 
 4. To save your settings, click the **Save All** ![save all](assets/SaveFloppy_icon.svg) icon in the upper-left corner of the standard toolbar in the Output view.    
 5. Click the **Generate Preset** ![generate preset](assets/generate-output.svg) icon on the top bar.
 You can view a progress bar next to the selected output preset in the Output Presets panel. 
