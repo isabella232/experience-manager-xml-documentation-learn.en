@@ -1,6 +1,7 @@
 ---
-title: Native PDF | PDF output generation 
+title: Native PDF | PDF output generation
 description: Generate PDF output in XML Documentation for Adobe Experience Manager as a Cloud Service
+exl-id: ec3d59b7-1dda-4fd1-848e-21d8a36ff5e4
 ---
 # Publish a PDF output
 
@@ -125,4 +126,4 @@ A **Success** dialog box is visible at the lower-right corner of the screen.
 If an output is not successful, the below error message is displayed.
 ![error log](assets/error-log.png)
 
-To view the error log, click **Dismiss**, hover over the selected preset tab, and click ![options](assets/options.svg) **Options** > **View Log**. 
+To view the error log, click **Dismiss**, hover over the selected preset tab, and click ![options](assets/options.svg) **Options** > **View Log**.
