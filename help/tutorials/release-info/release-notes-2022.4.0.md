@@ -94,3 +94,4 @@ The bugs fixed in various areas are listed below:
 Adobe has identified the following known issue in the XML Documentation for AEMaaCS April release.
 
 * The Web Editor doesn't report an error when two or more baselines are created with the same name but have space or case differences. For example, "adobe" and "Adobe " or "Adobe".
+* Oxygen connector hangs intermittently while performing frequent login or logout or switching between different authentication types.
