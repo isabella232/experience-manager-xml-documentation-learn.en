@@ -107,7 +107,7 @@ Use the following options to specify advanced settings to merge PDFs, use compre
 |  **Enable MathML equations** | Select this option to render MathML equations present in your content. The equations will be ignored otherwise by default.  | 
 |  **PDF conformance** | It is the standard to which you intend to save your PDF to ensure it is compliant. Select from the dropdown to choose from the list of available PDF standards. For more details about the supported standards, see [About PDF standards](https://helpx.adobe.com/acrobat/using/pdf-conversion-settings.html#about_pdf_x_pdf_e_and_pdf_a_standards). | 
 
-## Generate a PDF output  
+## Generate a PDF output {#generate-pdf-output} 
 
 Once you have configured the output preset you can generate output from the Presets panel, using the **Generate Preset** feature.  
 
