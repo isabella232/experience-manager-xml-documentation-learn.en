@@ -1,6 +1,7 @@
 ---
 title: Release Notes | XML Documentation for Adobe Experience Manager as a Cloud Service, April 2022 release
 description: Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service
+exl-id: c735ba24-a803-454b-8723-57dacf90061b
 ---
 # Latest release of XML Documentation for Adobe Experience Manager as a Cloud Service 
 
